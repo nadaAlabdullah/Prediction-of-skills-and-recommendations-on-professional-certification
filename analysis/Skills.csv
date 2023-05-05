@@ -1,0 +1,5415 @@
+,Skills
+0,Agile Coaching
+1,Agile Leadership
+2,Agile Management
+3,Agile Methodology
+4,Agile Modeling
+5,Agile Project Management
+6,Agile Projects
+7,Agile Software Development
+8,Agile Testing
+9,Backlogs
+10,Behavior-Driven Development
+11,Disciplined Agile Delivery
+12,Dynamic Systems Development Methods
+13,Extreme Programming
+14,Feature-Driven Development (FDD)
+15,Iterative And Incremental Development
+16,JIRA
+17,Jira Align
+18,Oracle Agile
+19,Pair Programming
+20,Pivotal Tracker (Software)
+21,Product Backlog Grooming
+22,Rally Software
+23,RallyDev
+24,Rapid Application Development
+25,Redmine
+26,Scaled Agile Framework
+27,Scrum (Software Development)
+28,Sprint Backlogs
+29,Sprint Planning
+30,Sprint Retrospectives
+31,Story Point Estimation
+32,Test-Driven Development (TDD)
+33,Timeboxing
+34,Unified Process
+35,VersionOne
+36,ZenHub
+37,.NET Remoting
+38,Amazon API Gateway
+39,Amazon Product Advertising API
+40,API Design
+41,API Gateway
+42,API Management
+43,API Throttling
+44,Application Development System Online (ADSO)
+45,Application Programming Interface (API)
+46,Aspose
+47,AWS AppSync
+48,Azure API Apps
+49,Azure API Management
+50,Box API
+51,Camera API
+52,Content Repository API For Java
+53,Core API
+54,Core Audio
+55,Direct3D
+56,Document.write
+57,Facebook API
+58,Facebook Graph API
+59,FastAPI
+60,Generic Buffer Management
+61,Google APIs
+62,Graphics APIs
+63,Graphics Device Interface
+64,Hardware Platform Interface
+65,Hasura GraphQL Engine
+66,Hateoas
+67,Java Advanced Imaging
+68,Java API For RESTful Web Services
+69,Java API For XML Processing
+70,Java API For XML Registries
+71,Java Persistence API
+72,Java Remote Method Invocation
+73,JavaMail
+74,Libvirt
+75,LinkedIn API
+76,Location APIs
+77,Mbeans (Java APIs)
+78,Microsoft UI Automation
+79,Mobile Rich Media Ad Interface Definitions (MRAID)
+80,Native API
+81,NetBIOS
+82,Object Linking And Embedding - Database (OLE DB)
+83,OpenAPI
+84,OpenAPI Specification
+85,OpenCL
+86,OpenMAX
+87,OpenMP
+88,Pluggable Authentication Module (PAM)
+89,POSIX Threads
+90,Postman API Platform
+91,Remote Application Platform
+92,REST API Development
+93,REST API Development
+94,Rest Client
+95,RESTEasy (JBoss)
+96,RESTful API
+97,Social Media APIs
+98,Software Adapters
+99,Strongloop
+100,Swagger UI
+101,Task Parallel Library (.NET Framework)
+102,Vulkan Graphics API
+103,Wcf Rest
+104,WCF/Web API
+105,WebRTC
+106,Windows API
+107,WordPress REST API
+108,Workflow APIs
+109,3D Reconstruction
+110,Activity Recognition
+111,AdaBoost (Adaptive Boosting)
+112,Adversarial Machine Learning
+113,AIOps (Artificial Intelligence For IT Operations)
+114,Amazon Textract
+115,Apache Mahout
+116,Apache MXNet
+117,Apache SINGA
+118,Applications Of Artificial Intelligence
+119,Artificial Intelligence
+120,Artificial Intelligence Development
+121,Artificial Intelligence Markup Language (AIML)
+122,Artificial Intelligence Systems
+123,Artificial Neural Networks
+124,Association Rule Learning
+125,Autoencoders
+126,Automated Machine Learning
+127,AWS SageMaker
+128,Azure Cognitive Services
+129,Azure Machine Learning
+130,Baidu
+131,Boosting
+132,Caffe
+133,Caffe2
+134,Chatbot
+135,Classification And Regression Tree (CART)
+136,Cognitive Automation
+137,Cognitive Computing
+138,Cognitive Robotics
+139,Collaborative Filtering
+140,Computational Intelligence
+141,Confusion Matrix
+142,Convolutional Neural Networks
+143,Cortana
+144,Cudnn
+145,Dask (Software)
+146,Deep Learning
+147,Deep Learning Methods
+148,Deeplearning4j
+149,Dialog Systems
+150,Dlib (C++ Library)
+151,Ensemble Methods
+152,Evolutionary Acquisition Of Neural Topologies
+153,Expert Systems
+154,Fast.ai
+155,Feature Engineering
+156,Feature Extraction
+157,Feature Learning
+158,Feature Selection
+159,Game Ai
+160,General-Purpose Computing On Graphics Processing Units
+161,Genetic Algorithm
+162,Gesture Recognition
+163,Google AutoML
+164,Gradient Boosting
+165,H2O.ai
+166,Hidden Markov Model
+167,Inference Engine
+168,Intelligent Agent
+169,Intelligent Control
+170,Intelligent Systems
+171,Intelligent Virtual Assistant
+172,Interactive Kiosk
+173,IPSoft Amelia
+174,Kaldi
+175,Keras (Neural Network Library)
+176,Kernel Methods
+177,Knowledge-Based Configuration
+178,Knowledge-Based Systems
+179,Kubeflow
+180,Long Short-Term Memory (LSTM)
+181,Machine Learning
+182,Machine Learning Algorithms
+183,Machine Learning Methods
+184,Meta Learning
+185,Microsoft Cognitive Toolkit (CNTK)
+186,Microsoft LUIS
+187,MLflow
+188,MLOps (Machine Learning Operations)
+189,mlpack (C++ Library)
+190,Multi-Agent Systems
+191,Nvidia Jetson
+192,Objective Function
+193,OmniPage
+194,Open Neural Network Exchange (ONNX)
+195,OpenAI Gym
+196,OpenCV
+197,OpenVINO
+198,PaddlePaddle
+199,Pydata
+200,PyTorch (Machine Learning Library)
+201,Random Forest Algorithm
+202,Reasoning Systems
+203,Recommender Systems
+204,Recurrent Neural Network (RNN)
+205,Reinforcement Learning
+206,Scikit-learn (Machine Learning Library)
+207,Semi-Supervised Learning
+208,Seq2Seq
+209,Sorting Algorithm
+210,Speech Recognition Software
+211,Speech Synthesis
+212,Supervised Learning
+213,Support Vector Machine
+214,TensorFlow
+215,Test Datasets
+216,Text-To-Speech
+217,Theano (Software)
+218,Torch (Machine Learning)
+219,Training Datasets
+220,Transfer Learning
+221,Unsupervised Learning
+222,Voice Assistant Technology
+223,Voice Interaction
+224,Voice User Interface
+225,Vowpal Wabbit
+226,Watson Conversation
+227,Watson Studio
+228,Xgboost
+229,ARCore
+230,ARKit
+231,Augmented Reality
+232,Augmented Reality (AR) Headsets
+233,Enscape (VR Rendering Software)
+234,Extended Reality
+235,Head-Mounted Displays (HMD)
+236,Hololens (VR Technology)
+237,Interactive 3D
+238,Kinect
+239,Leap Motion
+240,Matterport
+241,Metaverse
+242,Mixed Reality
+243,Oculus
+244,Samsung Gear VR
+245,Skybox
+246,Sony Playstation VR
+247,Virtual Reality
+248,Virtual Reality Modeling Language
+249,Virtual Reality Scene Generators
+250,Vuforia
+251,WebVR
+252,AWS Backup
+253,Backup Administration
+254,Backup Agent
+255,Backup And Restore
+256,Backup Devices
+257,Backup Replication
+258,Backup Tools (Backup Software)
+259,BackupPC
+260,Bacula
+261,Clonezilla
+262,Cloudberry
+263,CommVault
+264,Disk Imaging
+265,EMC Avamar
+266,EMC NetWorker
+267,File Generation
+268,Ghost (Backup Software)
+269,HP Data Protector
+270,IBM Aggregate Backup And Recovery Systems
+271,IBM Tivoli Storage Manager
+272,Incremental Backup
+273,NetBackup
+274,Network Data Management Protocol
+275,Percona Xtrabackup (Software)
+276,RecoverPoint
+277,Recovery Manager (RMAN)
+278,Remote Backup Services
+279,Shadow Copy
+280,ShadowProtect
+281,SQL Backup And Restore
+282,Symantec Backup Exec
+283,System Imaging
+284,Tape Management Systems
+285,Virtual Backup
+286,Xfs
+287,Apple IPad
+288,Apple Products
+289,Basic Internet Skills
+290,Business Computer Systems
+291,Computer Keyboards
+292,Computer Literacy
+293,Computer Maintenance
+294,Computer Terminals
+295,Desktop Computing
+296,Digital Citizenship
+297,Digital Data
+298,Digital Literacy
+299,Digital Technology
+300,File Format
+301,Firefox
+302,Google Applications
+303,Google Maps
+304,Google Photos
+305,Handheld PC
+306,Image File Formats
+307,Image Importing And Exporting
+308,Keyboard Shortcuts
+309,Keypad
+310,Macintosh Software
+311,Microsoft Edge
+312,Microsoft Internet Explorer
+313,Microsoft Software
+314,Mobile Apps
+315,Mobile Phones
+316,Online Communication
+317,Personal Computers
+318,Personal Digital Assistant
+319,Plain Text
+320,QWERTY
+321,Safari (Web Browser)
+322,Screen Capture
+323,Screen Sharing
+324,Smartphone Operation
+325,Tablets
+326,Typing
+327,Voicemail
+328,Web Browsers
+329,Web Navigation
+330,Word Processing
+331,Blockchain
+332,Blockchain Indexing
+333,Blockchain Security
+334,Chaincode
+335,Consensus Mechanism
+336,Distributed Ledgers
+337,Ethereum
+338,Hyperledger
+339,Merkle Trees
+340,Non-Fungible Tokens (NFT)
+341,Permissioned Blockchains
+342,Proof Of Stake
+343,Smart Contracts
+344,Solidity (Programming Language)
+345,Truffle (Software)
+346,Boost (C++ Libraries)
+347,Borland C++ (Borland Software)
+348,C (Programming Language)
+349,C++ (Programming Language)
+350,C++ Concepts
+351,C++ Server Pages
+352,C++/CLI
+353,C++14
+354,C-Based Programming Languages
+355,Cppcheck
+356,Cppunit
+357,Embedded C
+358,Embedded C++
+359,Managed Extensions For C++
+360,Microsoft Foundation Class Library (C++ Libraries)
+361,MISRA C (C Programming Language)
+362,Objective-C (Programming Language)
+363,OpenFrameworks
+364,Pro*C
+365,Standard Template Library (STL)
+366,SystemC
+367,Vision-Something-Library (VXL)
+368,Visual C++ (Programming Language)
+369,WxWidgets
+370,Apache CloudStack
+371,Autoscaling
+372,AWS Cloud Development Kit (CDK)
+373,Cloud Administration
+374,Cloud Application Development
+375,Cloud Applications
+376,Cloud Collaboration
+377,Cloud Computing
+378,Cloud Computing Architecture
+379,Cloud Computing Security
+380,Cloud Development
+381,Cloud Engineering
+382,Cloud Governance
+383,Cloud Hosting
+384,Cloud Infrastructure
+385,Cloud Management
+386,Cloud Migration
+387,Cloud Operations
+388,Cloud Platform System
+389,Cloud Services
+390,Cloud Storage
+391,Cloud Technologies
+392,Cloud Testing
+393,Cloud-Based Integration
+394,Cloud-Native Applications
+395,Cloud-Native Architecture
+396,Cloud-Native Computing
+397,Cloud-Native Infrastructure
+398,Cloud-To-Cloud
+399,Elasticity Computing
+400,Fog Computing
+401,Hybrid Cloud Computing
+402,Multi-Tenant Cloud Environments
+403,OpenStack
+404,Private Cloud
+405,Public Cloud
+406,Serverless Computing
+407,Virtual Private Cloud
+408,Alibaba Cloud
+409,Amazon Cloud Drive
+410,Amazon Cloudfront
+411,Amazon CloudWatch
+412,Amazon Connect
+413,Amazon Data Pipeline
+414,Amazon Elastic Compute Cloud
+415,Amazon Elastic Container Service
+416,Amazon Elastic File System
+417,Amazon Elastic Kubernetes Service
+418,Amazon ElastiCache
+419,Amazon Mechanical Turk
+420,Amazon Route 53
+421,Amazon S3
+422,Amazon Simple Notification Service (SNS)
+423,Amazon Simple Workflow Service (SWF)
+424,Amazon Virtual Private Cloud (VPC)
+425,Apigee
+426,Aspera (Software)
+427,AWS Auto Scaling
+428,AWS Batch
+429,AWS CloudFormation
+430,AWS CodeBuild
+431,AWS Cost Management
+432,AWS Directory Service
+433,AWS Inferentia
+434,AWS Kinesis
+435,AWS Lambda
+436,AWS Serverless
+437,Azure Automation
+438,Azure Batch
+439,Azure Blueprints
+440,Azure Cloud Services
+441,Azure Command-Line Interface (Azure CLI)
+442,Azure Data Catalog
+443,Azure Data Lake
+444,Azure Kubernetes Service
+445,Azure Logic Apps
+446,Azure Monitor
+447,Azure Web Apps
+448,BigQuery
+449,BigTable
+450,Bit.ly
+451,Browserstack
+452,Cloud Database
+453,Cloud Foundry
+454,Cloud Management Platforms
+455,CloudBase
+456,Cloudbees
+457,Cloudera Manager
+458,Cloudfoundry
+459,Cloudhub
+460,Cloudify
+461,Colocation
+462,Cyberduck
+463,Data as a Service (DaaS)
+464,Data Transport Utility
+465,Database As A Service (DBaaS)
+466,Datadog
+467,Dataflow
+468,Dell Boomi (Integration Platform)
+469,Desktop Cloud Visualization (DCV)
+470,DigitalOcean
+471,Distributed Replicated Block Device
+472,EchoSign
+473,Elastic (ELK) Stack
+474,FastTrack
+475,FinancialForce
+476,Firebase Cloud Messaging (FCM)
+477,Gcloud
+478,GlusterFS
+479,Google App Engines
+480,Google Cloud
+481,Google Cloud Build
+482,Google Cloud Composer
+483,Google Cloud Dataproc
+484,Google Cloud Messaging
+485,Google Cloud Platform (GCP)
+486,Google Compute Engine (GCE)
+487,Google Groups
+488,Google Storage
+489,Heroku
+490,IBM Bluemix
+491,IBM Cloud Computing
+492,IBM SAN Volume Controllers
+493,IBM Storage
+494,ICloud
+495,Infinispan
+496,Informatica Cloud
+497,Infoview
+498,Infrastructure As A Service (IaaS)
+499,Integration Platform As A Service (IPaaS)
+500,Jitterbit Integration Servers
+501,Joyent
+502,Linode
+503,Loggly
+504,Matillion
+505,Microsoft Azure
+506,MicroStrategy Web
+507,Multi-Cloud
+508,Multiplatform
+509,NetApp Applications
+510,Nimsoft
+511,Onelogin
+512,OpenAM
+513,OpenShift
+514,OpenSSO
+515,Oracle Autonomous Database
+516,Oracle Cloud
+517,Oracle Human Capital Management (HCM)
+518,Oracle Unified Directory (OUD)
+519,Platform as a Service (PaaS)
+520,Plesk
+521,QualysGuard
+522,Rackspace Cloud
+523,Red Hat CloudForms
+524,RemedyForce (Ticket Management Software)
+525,Rich Ui
+526,Ringcentral
+527,Sensu
+528,SkyKick
+529,SnapLogic
+530,SOASTA CloudTest
+531,Software as a Service (SaaS)
+532,Spring Cloud
+533,Spring Cloud Gateway
+534,Spring Cloud Netflix
+535,Spring Cloud Stream
+536,Stackdriver
+537,Storage As A Service (STaaS)
+538,Talend
+539,TIBCO Designer
+540,Twilio
+541,VMWare Workspace ONE
+542,Weebly
+543,WSO2 ESB
+544,Wufoo
+545,XStream
+546,Zuora
+547,Atlassian Confluence
+548,Collabnet
+549,Collaborative Software
+550,Hipchat
+551,IBM Rational Team Concert (Collaboration Tool)
+552,IBM Sametime
+553,Microsoft Lync
+554,Microsoft SharePoint
+555,Microsoft Sharepoint Foundation
+556,Microsoft SharePoint Workspace
+557,Miro
+558,Novell Groupwise
+559,Rational Requisitepro
+560,SAP Jam
+561,SharePoint Portal Server
+562,Wss 3.0
+563,Zimbra
+564,64bit
+565,Amd Processor
+566,Apple IPod
+567,ARM Architecture Microprocessors
+568,Auxiliary Memory
+569,Blackberry
+570,Compact Discs
+571,CompactPCI
+572,CompactRIO
+573,Computer Displays
+574,Computer Hardware
+575,Conventional PCI
+576,Cortex M
+577,Data Center Hardware
+578,Data Processing Unit
+579,Data Terminal Equipment
+580,DDR SDRAM
+581,Dell OptiPlex
+582,Disk Array Controllers
+583,Disk Arrays
+584,Disk Controller
+585,Disk Subsystems
+586,DLX
+587,Docking (Computers)
+588,Dot Matrix Printers
+589,Dual In-Line Memory Module (DIMM)
+590,Electronic Displays
+591,Erasable Programmable Read Only Memory (EPROM)
+592,Expansion Cards
+593,Graphics Hardwares
+594,Graphics Processing Unit (GPU)
+595,Hardware Adapters
+596,HP 3000
+597,HP Computers
+598,HP Printers
+599,HP Thin Clients
+600,HP Workstations
+601,I/O Processor
+602,IBM Microprocessors
+603,IBM Personal Computing
+604,IBM RAD
+605,IBM System I
+606,IMac
+607,Input Devices
+608,Intel Architecture 32-Bit (I386)
+609,Internet Appliance
+610,Itanium
+611,KVM Switch
+612,Laser Printers
+613,Linux-Powered Devices
+614,Mac Mini
+615,Macintosh Hardware
+616,Magnetoresistive Random-Access Memory
+617,Master Boot Records
+618,Memory Controller
+619,Memory Module
+620,Memory Systems
+621,MicroBlaze
+622,Microchipping
+623,Microcomputer
+624,Microcontrollers
+625,Microprocessor
+626,Microsoft Hardware
+627,Midrange Computer
+628,Minicomputers
+629,Monitor Control Command Set
+630,Motherboard
+631,Multi-Core Processors
+632,Multiplexers
+633,Netbook
+634,Network Printers
+635,Next Unit Of Computing (NUC)
+636,Non-Volatile Random-Access Memory
+637,Open Interface
+638,PCI Express
+639,Peripheral Component Interconnect (PCI)
+640,Peripheral Devices
+641,PIC Microcontrollers
+642,Plotters
+643,Pocket PC
+644,Powerpc
+645,Programmable Logic Controller Control Panel
+646,Proprietary Hardware
+647,Reduced Instruction Set Computing
+648,RISC System/6000
+649,Serial Advanced Technology Attachment (SATA)
+650,Serial Attached SCSI
+651,Sound Cards
+652,Stm32
+653,Surface Pro
+654,System Console
+655,System On A Chip
+656,Texas Instruments TMS320
+657,TI MSP430
+658,Touchscreen
+659,Universal Asynchronous Receiver/Transmitter
+660,Usart
+661,USB
+662,Video Cards
+663,Video Game Console
+664,Visual Instruction Set
+665,VMEbus
+666,Volatile Memory
+667,Wireless Keyboard
+668,X86 Architecture
+669,X86-64
+670,Xbox One
+671,Xeon Phi
+672,Zebra Printers
+673,Abstract Data Types
+674,Abstraction Layers
+675,Abstractions
+676,Advanced RISC Computing
+677,Algorithm Analysis
+678,Algorithm Design
+679,Algorithms
+680,American Standard Code For Information Interchange (ASCII)
+681,ARM Architecture
+682,Automated Information Systems
+683,Automated Reasoning
+684,Automated Theorem Proving
+685,Automation
+686,Autonomic Computing
+687,Bare Metal
+688,Binary Search Algorithms
+689,Binary Search Trees
+690,Binary Space Partitioning
+691,Blobs
+692,Boolean Expression
+693,Boolean Search
+694,Bootstrapping
+695,Business Logic
+696,Coding Theory
+697,Collision Detection
+698,Compiler Theories
+699,Complexity Theory
+700,Computational Complexity Theories
+701,Computer Architecture
+702,Computer Clusters
+703,Computer Programming
+704,Computer Science
+705,Computer Systems
+706,Computing Platforms
+707,Conditional Statements
+708,Cryptanalysis
+709,Cyberinfrastructure
+710,Data Architecture
+711,Data Centers
+712,Data Compression
+713,Data Encoding
+714,Data Flow Diagram
+715,Data Fusion
+716,Data Interfaces
+717,Data Pipelines
+718,Data Structures
+719,Database Programming
+720,Database Theory
+721,Decision Tables
+722,Deserialization
+723,Desktop Environments
+724,Digital Systems
+725,Digitization
+726,Discrete Systems
+727,Disk Io
+728,Dynamic Infrastructure
+729,Electronic Data Processing
+730,Embedded Software
+731,Embedded Systems
+732,Emerging Technologies
+733,Encodings
+734,Event Bus
+735,Evolutionary Algorithm
+736,Execution Time
+737,File I/O
+738,File Structure
+739,Floating Point Algorithm
+740,Formal Verification
+741,Fuzzy Logic
+742,Global Information Systems
+743,Hardware Abstraction
+744,High Performance Computing
+745,Indexing
+746,Information And Communications Technology
+747,Information Processor
+748,Information Retrieval
+749,Information Systems
+750,Information Technology
+751,Information Technology Architecture
+752,Information Theory
+753,Infrastructure Architecture
+754,Input/Output
+755,Interactive Computing
+756,IT Infrastructure
+757,JPEG 2000
+758,Knowledge Engineering
+759,Linked Lists
+760,Loose Coupling
+761,Machine Code
+762,Machine-Generated Data
+763,Memory Management
+764,Message Passing Interface
+765,Multiprocessing
+766,Multithreading
+767,Mutual Exclusion (Mutex)
+768,Network Science
+769,Network Theory
+770,Nvidia CUDA
+771,Object-Relational Mapping
+772,Opcodes
+773,Operating Systems
+774,Parsing
+775,Path Finding
+776,Pattern Matching
+777,Physical Computing
+778,Programming Concepts
+779,Pseudocode
+780,Read Code
+781,Real-Time Computing
+782,Regular Expressions
+783,Remote Computing
+784,Reversed Compound Agent Theorem
+785,Rule-Based Systems
+786,Script Task
+787,Search Algorithms
+788,Self Service Technologies
+789,Semantic Web
+790,Serialization
+791,Session (Computer Science)
+792,Signal Handling
+793,SIMD
+794,Small Computer System Interface (SCSI)
+795,Social Computing
+796,Software Systems
+797,Stored Procedure
+798,Subroutine
+799,Substrings
+800,Supercomputing
+801,System Call
+802,System Software
+803,Technical Analysis
+804,Technical Analysis Software
+805,Text Files
+806,Text Manipulation
+807,Tokenization
+808,Topology
+809,Transaction Processing (Computing)
+810,User Objects
+811,Virtual Memory
+812,AccuRev SCM
+813,Apple Configurator
+814,AWS OpsWorks
+815,CA Software Change Management
+816,CFEngines
+817,Chef (Configuration Management Tool)
+818,Config Files
+819,Configuration Item
+820,Configuration Management
+821,Configuration Management Databases
+822,Configurators
+823,Desired State Configuration
+824,Hardware Configuration Management
+825,Ifconfig
+826,Ipconfig
+827,Micro Focus UCMDB
+828,Multitopology Routing Configuration
+829,Network Configuration And Change Management
+830,Physical Configuration Audit
+831,Product Configuration
+832,Profile Configuration Files
+833,Puppet (Configuration Management Tool)
+834,SAP Configuration
+835,Server Configuration
+836,Software Configuration Management
+837,Spring Cloud Config
+838,System Center Configuration Manager
+839,System Configuration
+840,WebConfig
+841,XML Configuration Access Protocols
+842,Adobe CQ
+843,Adobe Experience Manager
+844,Authoring Systems
+845,Blogger (Service)
+846,Concrete5
+847,Content Management Framework
+848,Content Management Systems
+849,Day Cq
+850,Documentum
+851,DotNetNuke
+852,Drupal
+853,Ektron
+854,EZ Publish
+855,FatWire
+856,Google Search Appliance
+857,Hyland OnBase
+858,IBM Content Manager
+859,Joomla (Content Management System)
+860,Kentico
+861,Microsoft Content Management Servers
+862,Microsoft Stream
+863,MODX
+864,Omeka
+865,OpenDeploy
+866,Plone
+867,Sitecore (Software)
+868,Sitefinity
+869,Teamsite
+870,Tridion
+871,TYPO3
+872,Umbraco
+873,Web Content Management Systems
+874,Wix
+875,WordPress
+876,WordPress Admin
+877,Zope (CMS)
+878,Acronis True Image
+879,Acunetix
+880,Advanced Encryption Standard (AES)
+881,Advanced Security Analytics
+882,AlienVault
+883,Amazon GuardDuty
+884,Amazon Inspector
+885,Amazon Macie
+886,Anomaly Detection
+887,Anti-Spam Techniques
+888,Application Level Gateways
+889,Application Security
+890,Application Security Testing
+891,ArcSight Enterprise Security Manager
+892,ASC X12 Standards
+893,Assessment And Authorization
+894,Attack Patterns
+895,Attack Surface Management
+896,Audit Info System (AIS)
+897,AWS CloudHSM
+898,AWS CloudTrail
+899,AWS Key Management Service (KMS)
+900,Azure Policy
+901,Azure Security
+902,Azure Sentinel
+903,Big Ip
+904,Brakeman
+905,Brute Force Attacks
+906,Buffer Overflow
+907,Burp Suite
+908,Catastrophic Failure
+909,CCURE (Security And Event Management System)
+910,Certificate Authority
+911,Certificate Signing Request
+912,Certification Structure Oversight Committee (CSOC)
+913,Challenge Response Authentication Mechanism
+914,Charles Proxy
+915,Checkmarx
+916,Cipher
+917,Claroty
+918,Classified Information
+919,Client Certificates
+920,Cloud Penetration Testing
+921,Cloud Security Applications
+922,Cloudflare
+923,Code Injection
+924,Code Signing
+925,Codecs
+926,Common Controls
+927,Common Criteria (IT Framework)
+928,Common Vulnerability Scoring System (CVSS)
+929,Communications Security
+930,Computer And Network Surveillance
+931,Computer Fraud
+932,Computer Security
+933,Computer Security Awareness Training
+934,Computer Security Incident Response
+935,Container Security
+936,Content Filtering
+937,Content Security Policy
+938,Control Objectives For Information And Related Technology (COBIT)
+939,Crimeware
+940,Critical Program Information
+941,Cross-Domain Solutions
+942,Cross-Site Request Forgery
+943,Cross-Site Scripting
+944,Cryptographic Keys
+945,Cryptographic Protocols
+946,Cryptography
+947,Cyber Defense
+948,Cyber Engineering
+949,Cyber Governance
+950,Cyber Hygiene
+951,Cyber Incident Response
+952,Cyber Kill Chain Framework
+953,Cyber Operations
+954,Cyber Risk
+955,Cyber Safety
+956,Cyber Security
+957,Cyber Security Assessment
+958,Cyber Security Policies
+959,Cyber Security Policy Development
+960,Cyber Security Standards
+961,Cyber Security Strategy
+962,Cyber Security Systems
+963,Cyber Threat Hunting
+964,Cyber Warfare
+965,CyberX
+966,Data Encryption
+967,Data Loss Prevention
+968,Data Protection Strategy
+969,Data Security
+970,Database Encryption
+971,Database Scanners
+972,Database Security
+973,DCID 6/3
+974,DDoS Mitigation
+975,Defense In Depth
+976,Denial-Of-Service (DoS) Attacks
+977,Department Of Defense (DoD) 8500 Series
+978,Department Of Defense (DoD) 8510
+979,Device Fingerprint
+980,Digital Guardian
+981,Digital Security
+982,Digital Signature
+983,DISA Gold Disk
+984,Distributed Denial-Of-Service (DDoS) Attacks
+985,Djbdns
+986,DNS Spoofing
+987,Domainkeys Identified Mail
+988,Dynamic Application Security Testing (DAST)
+989,Elliptic Curve Cryptography
+990,Email Filtering
+991,Encryption
+992,Encryption Software
+993,Endpoint Detection And Response
+994,Endpoint Security
+995,Enterprise Mission Assurance Support Service (eMASS)
+996,Enterprise Security
+997,Ethical Hacking
+998,Event Monitoring
+999,Federal Information Processing Standards (FIPS)
+1000,Federal Information Security Management Act
+1001,Vulnerability
+1002,FedRAMP
+1003,File Inclusion Vulnerability
+1004,Firmware Security
+1005,Folder Security
+1006,Ghidra (Reverse Engineering Software)
+1007,GIAC Intrusion Prevention
+1008,HackerOne
+1009,Hardening
+1010,Hardware Security
+1011,Hardware Security Module
+1012,HCL AppScan
+1013,Heuristic Evaluation
+1014,High Assurance Internet Protocols Encryptor
+1015,Honeypots (Computing)
+1016,Host Based Security System (HBSS)
+1017,HP WebInspect
+1018,IBM Guardium
+1019,IBM QRadar (SIEM Software)
+1020,IBM Resilient
+1021,ICD 503
+1022,iDefense
+1023,Incident Response
+1024,Information Assurance
+1025,Information Assurance Vulnerability Management (IAVM)
+1026,Information Privacy
+1027,Information Security Audits
+1028,Information Systems Security
+1029,Information Technology Security Systems
+1030,Information Warfare
+1031,Infrastructure Security
+1032,Insider Threat
+1033,Internet Security
+1034,Inter-Process Communication
+1035,IntruShield
+1036,Intrusion Prevention Systems
+1037,ISO/IEC 27000-Series
+1038,ISO/IEC 27001
+1039,ISO/IEC 27002
+1040,IT Security Architecture
+1041,Java Security
+1042,Kali Linux
+1043,Key Derivation Function
+1044,Key Management
+1045,Key Stretching
+1046,Keychain
+1047,Lightweight Extensible Authentication Protocols
+1048,Linux Security Modules
+1049,Logical Security
+1050,McAfee Enterprise Security Manager
+1051,Messaging Security
+1052,Metasploit
+1053,Microservices Security
+1054,Microsoft Forefront
+1055,Mobile Application Penetration Testing
+1056,Mobile Security
+1057,Multilevel Security
+1058,Netskope
+1059,Nikto Web Scanner
+1060,NIST 800
+1061,NIST 800-37
+1062,NIST 800-53
+1063,Offensive Security
+1064,Offsite Data Protection
+1065,Open Source Security Testing Methodology
+1066,Open Web Application Security Project (OWASP)
+1067,OpenSSL
+1068,Openswan
+1069,OpenVAS
+1070,Operational Technology (OT) Security
+1071,Password Cracking
+1072,Penetration Testing
+1073,Peoplesoft Security
+1074,Personally Identifiable Information
+1075,Phishing
+1076,Plan Of Action And Milestones (POA&M)
+1077,Pretty Good Privacy (PGP)
+1078,Privacy Impact Assessments
+1079,Privilege Escalation
+1080,Privilege Separation
+1081,Program Protection Plans
+1082,Public Key Certificates
+1083,Public Key Cryptography
+1084,Public Key Cryptography Standards (PKCS)
+1085,Public Key Infrastructure
+1086,Quantum Cryptography
+1087,Radware
+1088,Random Number Generation
+1089,Rapid7
+1090,Recaptcha
+1091,Registration Authority
+1092,RSA (Cryptosystem)
+1093,Salesforce Security
+1094,SAP Security
+1095,Secure Coding
+1096,Secure Messaging
+1097,Secure Operating Systems
+1098,Secure Voice
+1099,Secure/Multipurpose Internet Mail Extensions (S/MIME)
+1100,Security Accounts Manager
+1101,Security Content Automation Protocol
+1102,Security Context
+1103,Security Engineering
+1104,Security Implementation
+1105,Security Information And Event Management (SIEM)
+1106,Security Patterns
+1107,Security Recommendations
+1108,Security Requirements Analysis
+1109,Security Software
+1110,Security Testing
+1111,Selinux
+1112,Server Hardening
+1113,Serverless Security
+1114,Snort (Intrusion Detection System)
+1115,Social Engineering
+1116,Software Protection
+1117,Software Security
+1118,Software Security Architecture
+1119,Solaris Trusted Extensions
+1120,Splunk Enterprise Security
+1121,Spring Security
+1122,SQL Injection
+1123,Sqlmap
+1124,Ssh Keys
+1125,Static Application Security Testing (SAST)
+1126,Steganography
+1127,Symmetric Key
+1128,System Security Analysis
+1129,Thick Client Penetration Testing
+1130,ThreadFix
+1131,Threat Detection
+1132,Threat Management
+1133,Threat Modeling
+1134,ThreatConnect
+1135,Triple DES
+1136,Trusted Computing
+1137,Trusted Platform Module
+1138,Trusted Systems
+1139,Truststore
+1140,United States Government Configuration Baseline (USGCB)
+1141,Unix Security
+1142,Virtualization Security
+1143,Vormetric Transparent Encryption (VTE)
+1144,Vulnerability Assessments
+1145,Vulnerability Discovery
+1146,Vulnerability Management
+1147,Vulnerability Scanning
+1148,WCF Security
+1149,Web Application Attack And Audit Framework (W3AF)
+1150,Web Application Penetration Testing
+1151,Web Application Security
+1152,Web Filtering
+1153,Website Monitoring
+1154,Wireless Penetration Testing
+1155,Wireless Security Testing
+1156,WS-Security
+1157,Xacta
+1158,Aggregator
+1159,Beautifulsoup
+1160,Data Acquisition
+1161,Data Collection
+1162,Data Extraction
+1163,Data Recording
+1164,Nutch
+1165,Remote Data Capture
+1166,Scrapy (Web Crawler)
+1167,Sensor Fusion
+1168,Telegraf
+1169,Web Crawling
+1170,Web Scraping
+1171,ActiveSync
+1172,Alembic (Data Migration Tool)
+1173,Apache Accumulo
+1174,Apache Atlas
+1175,Apache JackRabbit
+1176,Application Data
+1177,Attunity
+1178,Batch Updates
+1179,Bulk Import
+1180,Connected Data Objects
+1181,Content Engineering
+1182,Controlled Vocabulary
+1183,Custom Fields
+1184,Custom Object
+1185,Data Abstraction
+1186,Data Administration
+1187,Data Classification
+1188,Data Compilation
+1189,Data Conditioning
+1190,Data Consistency
+1191,Data Control
+1192,Data Corruption
+1193,Data Curation
+1194,Data Dictionary
+1195,Data Domain
+1196,Data Duplication Management
+1197,Data Ethics
+1198,Data Exchange
+1199,Data Feed
+1200,Data Files
+1201,Data Governance
+1202,Data Hub
+1203,Data Integrity
+1204,Data Libraries
+1205,Data Localization
+1206,Data Maintenance
+1207,Data Management
+1208,Data Management Plan
+1209,Data Management Platforms
+1210,Data Mapping
+1211,Data Masking
+1212,Data Migration
+1213,Data Processing
+1214,Data Processing Systems
+1215,Data Quality
+1216,Data Recovery
+1217,Data Recovery Software
+1218,Data Redundancy
+1219,Data Remanence
+1220,Data Retention
+1221,Data Retrieval
+1222,Data Sharing
+1223,Data Structure Alignment
+1224,Data Synchronization
+1225,Data Taxonomy
+1226,Data Transposition
+1227,Data Virtualization
+1228,Data Wrangling
+1229,Datacap
+1230,DataFlux
+1231,Dataset
+1232,Dataspaces
+1233,Denodo
+1234,Dfsort
+1235,Directory Structure
+1236,Dirty Data
+1237,Dynamic Data
+1238,Electronic Reporting Systems
+1239,Electronically Stored Information
+1240,FastExport
+1241,File Importing
+1242,File Manager
+1243,File Transfer
+1244,FileMan
+1245,Fixed Format
+1246,Format Conversion
+1247,Global Data Synchronization Networks
+1248,Hierarchical Data Format
+1249,IBM DB2
+1250,IBM Initiate
+1251,IBM Master Data Management
+1252,IBM Optim
+1253,IDoc
+1254,Informatica Master Data Management
+1255,Information Governance And Management
+1256,Information Lifecycle Management
+1257,Information Management
+1258,Information Ordering
+1259,Information Organization
+1260,Information Processing
+1261,Kalido
+1262,Kapacitor
+1263,Legacy System Migration Workbench
+1264,Marklogic
+1265,Master Data Management
+1266,Merging Data
+1267,Metadata Management
+1268,Meter Data Management
+1269,Migration Manager
+1270,National Information Exchange Model
+1271,Oracle Coherence
+1272,OSIsoft
+1273,Persistent Data Structure
+1274,Public Folders
+1275,Reltio (Master Data Management Software)
+1276,Remote File Sharing
+1277,Rochade
+1278,Rsync
+1279,SAP Information Steward
+1280,SAP NetWeaver Data Management
+1281,Signiant (File Transfer Software)
+1282,SQL Server Master Data Services
+1283,Static Data
+1284,Stream Processing
+1285,Syncsort
+1286,Taxonomy
+1287,Test Data Management
+1288,Transaction Data
+1289,Amazon Elastic Block Stores
+1290,Amazon Redshift
+1291,Amazon S3 Buckets
+1292,Amazon S3 Glacier
+1293,Archive File
+1294,Azure Blob Storage
+1295,Block Storage
+1296,BrightStor Portal
+1297,CD-ROMs
+1298,Centralized Storage Systems
+1299,Cloud Storage
+1300,Clustered File Systems
+1301,Computer Data Storage
+1302,dashDB
+1303,Data Archives
+1304,Data Archiving Service
+1305,Data Caching
+1306,Data Direct Networks
+1307,Data Lakes
+1308,Data Room
+1309,Data Storage Devices
+1310,Data Storage Technologies
+1311,Data Store
+1312,Dell EMC UniSphere
+1313,Dell PowerVault
+1314,Dimensional Modeling
+1315,Direct Access Storage Devices
+1316,Direct-Attached Storage
+1317,Disk Defragmentation
+1318,Disk Storage
+1319,Dynamic Random-Access Memory
+1320,Ehcache
+1321,Email Archiving
+1322,EMC Clariion
+1323,External Storage
+1324,File Allocation Table (Software)
+1325,File Systems
+1326,Flash File Systems
+1327,Flash Memory
+1328,Flash Technology
+1329,Fourth Extended Filesystem (Ext4)
+1330,FreeNAS
+1331,General Parallel File Systems
+1332,Hard Disk Drives
+1333,Hcatalog
+1334,HFS Plus
+1335,Hierarchical Storage Management
+1336,HP 3Par
+1337,IBM DFSMS
+1338,IBM General Parallel File Systems
+1339,IBM XIV Storage Systems
+1340,Internal Storage
+1341,Isilon (Network-Attached Storage System)
+1342,JFS (File System)
+1343,Linear Tape-Open
+1344,Local Storage
+1345,Logical Disk Management
+1346,Logical Volume Manager
+1347,Magnetic Storage
+1348,Mass Storage
+1349,Memcached
+1350,Memory Architecture
+1351,Memory Card
+1352,Memory Organization
+1353,NetApp Data Storage
+1354,Network Attached Storage (Server Appliance)
+1355,Network Storage
+1356,Non-Volatile Memory
+1357,NT File System (NTFS)
+1358,Object Access Methods
+1359,Object Storage
+1360,Online Storage
+1361,Open Format
+1362,Optical Discs
+1363,Persistent Memory
+1364,Persistent Storage
+1365,RAID
+1366,Random-Access Memory
+1367,Remote Storage
+1368,Removable Media
+1369,SD Cards
+1370,Shared Memory
+1371,Solaris Volume Manager
+1372,Solid-State Drives
+1373,Storage Architecture
+1374,Storage Devices
+1375,Storage Systems
+1376,Symmetrix
+1377,Synology
+1378,Tape Libraries
+1379,Temporary File
+1380,Unix File Systems
+1381,USB Flash Drives
+1382,Veritas File Systems
+1383,Veritas Storage Foundation
+1384,Veritas Volume Manager
+1385,Virtual Hard Disks (VHD)
+1386,Virtual Storage Access Methods
+1387,Virtual Tape Libraries
+1388,Web Cache
+1389,Web Storage
+1390,WinZip
+1391,XtraDB
+1392,XtremIO (Network-Attached Storage System)
+1393,Zettabyte File System (ZFS)
+1394,Zip Drive
+1395,Apache Ranger
+1396,Atomicity Consistency Isolation Durability (ACID)
+1397,Automatic Storage Management
+1398,Change Data Capture (CDC)
+1399,Data Access
+1400,Data Build Tool
+1401,Data Partitioning
+1402,Data Strategy
+1403,Data Vault Modeling
+1404,Database Activity Monitoring
+1405,Database Administration
+1406,Database Architecture
+1407,Database Cloning
+1408,Database Cluster
+1409,Database Connection
+1410,Database Consistency
+1411,Database Console Commands (DBCC)
+1412,Database Consolidation
+1413,Database Conversion
+1414,Database Cursor
+1415,Database Deployment Management
+1416,Database Design
+1417,Database Development
+1418,Database Engine Tuning Advisor
+1419,Database Life Cycle Management
+1420,Database Management
+1421,Database Mirroring
+1422,Database Modeling
+1423,Database Normalization
+1424,Database Partitioning
+1425,Database Performance Analyzer
+1426,Database Permissions
+1427,Database Programmer's Toolkits
+1428,Database Testing
+1429,Database Triggers
+1430,Database Tuning
+1431,Database Upgrades
+1432,DBArtisan
+1433,DbFit
+1434,DbVisualizer
+1435,Denormalization
+1436,Dynamic Management Views
+1437,Embarcadero Software
+1438,Expdp
+1439,Foglight (Database Software)
+1440,Galera
+1441,Hdinsight
+1442,Impdp
+1443,InnoDB
+1444,Litespeed
+1445,Logical Data Models
+1446,Merge Replication
+1447,MS-DTSX
+1448,MySQL Workbench
+1449,NameNode
+1450,Object-Role Modeling
+1451,Oracle Advanced Security
+1452,Oracle Applications DBA
+1453,Oracle Audit Vault
+1454,Oracle Data Guard
+1455,Oracle Database Administration (DBA)
+1456,Oracle Database Appliance
+1457,Oracle Database Vault
+1458,Oracle Engineered Systems
+1459,Oracle Enterprise Manager
+1460,Oracle Exadata
+1461,Oracle GoldenGate
+1462,Oracle Rac
+1463,Oracle Streams
+1464,Oracle Text
+1465,Oracle Toad
+1466,Peoplesoft Administration
+1467,Peoplesoft Internet Architecture
+1468,Pgbouncer
+1469,PHPMyAdmin
+1470,Physical Schema
+1471,Query Analyzer
+1472,Query Optimization
+1473,Query Performance
+1474,Query Planning
+1475,Query Tuning
+1476,Redo Log
+1477,Referential Integrity
+1478,Relational Database Design
+1479,SharePlex
+1480,SQL And Java (SQLJ)
+1481,SQL Server Agent
+1482,SQL Server Integration Services (SSIS)
+1483,SQL Server Management Studio
+1484,SQL Server Reporting Services
+1485,SQL Services
+1486,SQL Tuning
+1487,Ssrs 2012
+1488,Statspack
+1489,Third Normal Form
+1490,TKProf
+1491,Transactional Replication
+1492,Active Record Pattern
+1493,ADABAS
+1494,Adhoc Queries
+1495,Advantage Database Servers
+1496,Aerospike
+1497,Aggregation Framework
+1498,AllegroGraph
+1499,Amazon Athena
+1500,Amazon Aurora
+1501,Amazon DocumentDB
+1502,Amazon DynamoDB
+1503,Amazon Neptune
+1504,Amazon Relational Database Services
+1505,Amazon SimpleDB
+1506,Apache Avro
+1507,Apache Cassandra
+1508,Apache Drill
+1509,Apache Druid
+1510,Apache HBase
+1511,Apache Ignite
+1512,Apache Impala
+1513,Apache Kafka
+1514,Apache Parquet
+1515,Apache Phoenix
+1516,Apache Torque
+1517,ArangoDB
+1518,Azure Cosmos DB
+1519,Basis Database
+1520,Berkeley DB
+1521,Btrieve/Pervasive Software
+1522,Candidate Key
+1523,ClickHouse DBMS
+1524,Cloud Firestore
+1525,Cloudant
+1526,Cloudera Impala
+1527,Content Repository
+1528,Couchbase Servers
+1529,CouchDB
+1530,Database Application
+1531,Database Engines
+1532,Database Indexes
+1533,Database Management Systems
+1534,Database Queries
+1535,Database Query Tools
+1536,Database Schema
+1537,Database Software
+1538,Database Storage Structures
+1539,Database Systems
+1540,Database Transactions
+1541,Datacom/DB
+1542,Dataframe
+1543,Datapump
+1544,Datastax
+1545,DataStax Enterprise
+1546,DB2/400
+1547,DBase
+1548,Distributed Database
+1549,Document-Oriented Databases
+1550,Dynamic Queries
+1551,Embedded Databases
+1552,Enscribe
+1553,EnterpriseDB
+1554,Epic Clarity
+1555,External Tables
+1556,Federated Database Systems
+1557,Firebird Database
+1558,Flat File Database
+1559,Foreign Keys
+1560,FoxPro
+1561,Graph Database
+1562,GraphDB
+1563,Hierarchical Database Model
+1564,Hyper SQL Database (HSQLDB)
+1565,IBM Informix
+1566,IBM Spufi
+1567,IBM SQL/DS
+1568,IndexedDB
+1569,InfluxDB
+1570,Ingres Database
+1571,In-Memory Database
+1572,Integrated Maintenance Data System
+1573,Intersystems Cache
+1574,JanusGraph
+1575,Linked Tables
+1576,Logical Databases
+1577,MariaDB
+1578,Materialized View
+1579,MaxDB
+1580,Memsql
+1581,Metadata Repository
+1582,Microsoft SQL Server Data Engine (MSDE)
+1583,Microsoft SQL Servers
+1584,Mini SQL (MSQL)
+1585,MongoDB
+1586,MyISAM
+1587,MySQL
+1588,Mysql5
+1589,Neo4j
+1590,Non-Relational Data Stores
+1591,NonStop SQL
+1592,NoSQL
+1593,Object-Relational Database
+1594,Online Databases
+1595,OpenTSDB
+1596,Operational Databases
+1597,Operational Historian
+1598,Oracle Databases
+1599,Oracle10g
+1600,Oracle12c
+1601,OrientDB
+1602,Pervasive PSQL
+1603,Pgpool
+1604,PostgreSQL
+1605,PrestoDB
+1606,Primary Keys
+1607,Program Database
+1608,Progress Db
+1609,Query Hints
+1610,RavenDB
+1611,Redis
+1612,Relational Database Management Systems
+1613,Relational Databases
+1614,Relational Model
+1615,RethinkDB
+1616,Riak
+1617,Rocket U2
+1618,RocksDB
+1619,SAP HANA
+1620,SAP Sybase Adaptive Server Enterprise
+1621,SAP Sybase SQL Anywhere
+1622,SQL Anywhere
+1623,SQL Azure
+1624,Sql Optimization
+1625,SQL Server Compact
+1626,SQL Server Express
+1627,SQL*Plus
+1628,SQLAlchemy
+1629,SQLDB
+1630,SQLite
+1631,Surrogate Key
+1632,Sybase (Software)
+1633,Tablespace
+1634,Technical Data Management Systems
+1635,Temp Tables
+1636,Tempdb
+1637,Teradata SQL
+1638,Text Database
+1639,Translation Memory
+1640,Unisys DMSII
+1641,Universal Database (UDB)
+1642,Very Large Databases (VLDB)
+1643,Web SQL Databases
+1644,XML Databases
+1645,Alluxio
+1646,Apache Mesos
+1647,Azure Load Balancer
+1648,Client Server Models
+1649,Concurrent Computing
+1650,Concurrent Object Modeling And Architectureal Design Method
+1651,Data Grid
+1652,DFSR
+1653,Distributed Cache
+1654,Distributed Component Object Model
+1655,Distributed Computing
+1656,Distributed Data Store
+1657,Distributed Design Patterns
+1658,Distributed File Systems
+1659,Distributed Memory
+1660,Distributed Object
+1661,Distributed Programming
+1662,Distributed Resource Scheduler
+1663,Distributed Transaction
+1664,Edge Computing
+1665,Elastic Load Balancer
+1666,F5 Load Balancers
+1667,Global File System
+1668,Global Server Load Balancing
+1669,Grid Computing
+1670,gRPC
+1671,Hadoop Distributed File System (HDFS)
+1672,IBM Parallel Sysplex
+1673,Load Balancing
+1674,Network File Systems
+1675,Network Load Balancing
+1676,OneFS Distributed File Systems
+1677,Parallel Computing
+1678,Parallel Processing
+1679,Peer-To-Peer
+1680,Remote Procedure Call
+1681,TIBCO Hawk
+1682,XML-RPC
+1683,Apache Servicemix
+1684,Application Integration Architecture
+1685,Application Portfolio Management
+1686,ATG Dynamo
+1687,Azure Service Bus
+1688,Cross-Functional Integration
+1689,Custom Web Parts
+1690,Enterprise Application Integration
+1691,Enterprise Application Software
+1692,Enterprise Architecture
+1693,Enterprise Architecture Framework
+1694,Enterprise Integration
+1695,Enterprise Service Bus
+1696,Federal Enterprise Architecture
+1697,Fuse ESB
+1698,IBM Websphere Application Server
+1699,IBM Websphere ESB
+1700,IBM Websphere Integration Developer
+1701,IBM WebSphere Message Broker
+1702,IBM WebSphere Portal
+1703,IBM WebSphere Portlet Factory
+1704,IBM WebSphere Process Server
+1705,Integrated Architecture Framework
+1706,Java Caps
+1707,JBoss EAP
+1708,JBoss Fuse
+1709,Liferay
+1710,Microsoft Office SharePoint Server
+1711,Microsoft Sharepoint Migrations
+1712,Mule (Software)
+1713,MuleSoft
+1714,MuleSoft Anypoint
+1715,Oracle BPEL Process Management
+1716,Oracle Service Bus
+1717,Peoplesoft People Tools
+1718,Peoplesoft Upgrade
+1719,Portal Servers
+1720,Product Software Implementation Method
+1721,SAP Mobile Platform
+1722,SAP NetWeaver
+1723,SAP Process Integration
+1724,Segment Architecture
+1725,ShareGate
+1726,Siebel EIM
+1727,Spring Integration
+1728,Suitetalk
+1729,TIBCO Adapters
+1730,TIBCO Administration
+1731,TIBCO Businessworks
+1732,TIBCO Rendezvous
+1733,Togaf
+1734,Troux (Enterprise Architecture Software)
+1735,WebMethods
+1736,WebMethods Flow
+1737,WebMethods Integration Server
+1738,Zachman Framework
+1739,Alation Data Catalog
+1740,Alfresco ECM
+1741,Apache Solr
+1742,Apex Data Loader
+1743,Corporate Data Management
+1744,Customer Data Integration
+1745,Electronic Data Interchange
+1746,Enterprise Content Management
+1747,Enterprise Information Management
+1748,Enterprise Portal
+1749,Enterprise Search
+1750,Enterprise Services Repository
+1751,Enterprise Storage System
+1752,IBM - Tivoli Change And Configuration Management Database
+1753,IBM Information Management System
+1754,Information Governance
+1755,Knowledge Management
+1756,Knowledge Management Software
+1757,Laserfiche (Content Management Platform)
+1758,Mirth Connect
+1759,Oracle B2B
+1760,Prism
+1761,Solrcloud
+1762,United Nations/Electronic Data Interchange For Administration Commerce And Transport (UN/EDIFACT)
+1763,Application Xml
+1764,Business Process Execution Language
+1765,Business Process Modeling Language
+1766,Call Control Extensible Markup Languages
+1767,Commerce EXtensible Markup Language (CXML)
+1768,Document Structure Description
+1769,Document Type Definition
+1770,Domino XML Language
+1771,Extensible Application Markup Language
+1772,Extensible HyperText Markup Language (XHTML)
+1773,Extensible Markup Language (XML)
+1774,Extensible Stylesheet Language (XSL)
+1775,Extensible Stylesheet Language Transformations (XSLT)
+1776,FpML
+1777,Macromedia Flex Markup Language (MXML)
+1778,OmniMark
+1779,Schematron
+1780,Security Assertion Markup Language (SAML)
+1781,Service Provisioning Markup Language
+1782,Standard Generalized Markup Language
+1783,Translation Memory EXchange (XML Spec)
+1784,Vector Markup Language
+1785,Web.xml
+1786,XacML
+1787,XBRL (Extensible Business Reporting Language)
+1788,XCal (XML-Based Standards)
+1789,XCBL
+1790,Xerces
+1791,Xforms
+1792,XMetaL
+1793,XML Concepts
+1794,XML Data Binding
+1795,Xml Documentation
+1796,Xml Dtd
+1797,XML Editor
+1798,XML For Analysis
+1799,Xml Generation
+1800,XML Interface For Network Services
+1801,XML Markup Languages
+1802,XML Metadata Interchange
+1803,XML Representations Of Lexicons
+1804,XML Schema
+1805,XML Script
+1806,XML Transformation Languages (XML-Based Standards)
+1807,XML Validation
+1808,XMLBeans
+1809,XPath
+1810,XQuery
+1811,XUL (XML User Interface Language)
+1812,Alooma
+1813,AWS Glue
+1814,Azure Data Factory
+1815,CloverETL
+1816,Data Capture
+1817,Data Conversion
+1818,Data Import/Export
+1819,Data Integration
+1820,Data Transformation
+1821,Data Transformation Services
+1822,Dataweave
+1823,Extract Transform Load (ETL)
+1824,IBM InfoSphere (ETL Tools)
+1825,IBM InfoSphere DataStage
+1826,Informatica
+1827,Informatica Powercenter
+1828,Logstash
+1829,Mload
+1830,Oracle Data Service Integrator
+1831,Oracle Warehouse Builder
+1832,Pentaho Data Integration
+1833,Slowly Changing Dimensions
+1834,SQL*Loader
+1835,Sqoop
+1836,StreamSets
+1837,Teradata Parallel Transporter
+1838,BIOS
+1839,Boot Loaders
+1840,Booting (BIOS)
+1841,Das U-Boot
+1842,Device Firmware Upgrades
+1843,Embedded Firmware
+1844,Firmware
+1845,Firmware Updates
+1846,Motor Control Firmware
+1847,Unified Extensible Firmware Interface
+1848,Access Network
+1849,Addressing Schemes
+1850,Anycast
+1851,Application Delivery Controller
+1852,Application Layers
+1853,Automatically Switched Optical Network
+1854,Avionics Full-Duplex Switched Ethernet
+1855,Backbone Network
+1856,Bandwidth Management
+1857,Beowulf Cluster
+1858,Channel Bonding
+1859,Cisco Networking
+1860,Classless Inter-Domain Routing
+1861,Complex Networks
+1862,Computer Network Operations
+1863,Computer Networks
+1864,Data Link
+1865,Differentiated Services
+1866,Differentiated Services Code Point
+1867,Digital Network Architecture
+1868,Digital Network Control System
+1869,Domain Name Registrar
+1870,Domain Name System
+1871,Domain Registration
+1872,Dynamic DNS (Domain Name System)
+1873,Dynamic Ip
+1874,Element Management Systems
+1875,Encapsulation (Networking)
+1876,End Systems
+1877,EtherChannel
+1878,Ethernet
+1879,Ethernet Local Area Network
+1880,Ethernet Physical Layer
+1881,Ethernet Private Lines
+1882,Extranet
+1883,Failover Clustering
+1884,Fast Ethernet
+1885,Fat Client
+1886,Fiber Distributed Data Interface
+1887,Fibre Channel Over Ethernet
+1888,Forwarding Plane
+1889,Frame Relay
+1890,Host Systems
+1891,Hot Spots
+1892,IBM Systems Network Architecture
+1893,IBM VNET
+1894,InfiniBand
+1895,Integrated Services
+1896,Intelligent Networks
+1897,Internet Service Provider
+1898,Internet Standard
+1899,Internet Transit
+1900,Internetworking
+1901,Intranet
+1902,Intranet Portal
+1903,IP Address Management
+1904,IP Addressing
+1905,IP Multicasting
+1906,IP Routing
+1907,IPv4 Subnetting Reference
+1908,Juniper Network Technologies
+1909,LAN Switching
+1910,Liferay 6
+1911,Link Aggregation (Ethernet)
+1912,Link Layer
+1913,Local Area Networks
+1914,Low Latency
+1915,MAC Address
+1916,Mesh Networking
+1917,Metro Ethernet
+1918,Metropolitan Area Networks
+1919,Microsoft DNS
+1920,Microsoft Networking
+1921,Mobile Edge Computing (MEC)
+1922,Multicasting
+1923,Multihoming
+1924,Network Address
+1925,Network Address Translation
+1926,Network Analysis
+1927,Network Appliances
+1928,Network Architecture
+1929,Network Bridging
+1930,Network Communications
+1931,Network Congestion
+1932,Network Control
+1933,Network Diagrams
+1934,Network Discovery
+1935,Network Element
+1936,Network Engineering
+1937,Network Information Systems
+1938,Network Infrastructure
+1939,Network Interface
+1940,Network Layer
+1941,Network Management System
+1942,Network Mapping
+1943,Network Model
+1944,Network Monitoring
+1945,Network Packet
+1946,Network Performance Management
+1947,Network Planning And Design
+1948,Network Provisioning
+1949,Network Resource Management
+1950,Network Routing
+1951,Network Segmentation
+1952,Network Service
+1953,Network Sockets
+1954,Network Testing
+1955,Network Topology
+1956,Network Traffic Management
+1957,Network Troubleshooting
+1958,Network Utilities
+1959,Networking Basics
+1960,Next-Generation Networks
+1961,Nodes (Networking)
+1962,OSI Models
+1963,Peering (Computer Networking)
+1964,Personal Area Networks
+1965,Physical Layers
+1966,Physical Topology
+1967,Port Forwarding
+1968,Port Mirroring
+1969,Presentation Layer
+1970,Private Networks
+1971,Private VLAN
+1972,Remote Direct Memory Access
+1973,Reverse Proxy
+1974,Routing Table
+1975,Service Access Point
+1976,Service Discovery
+1977,Small Office/Home Office Network
+1978,Socket Programming
+1979,Software Defined Networking (SDN)
+1980,Source Routing
+1981,SSL Acceleration
+1982,Storage Area Network (SAN)
+1983,Subnetwork
+1984,Supernetwork
+1985,Switch Virtual Interface
+1986,Switched Communication Networks
+1987,Switched Fabric
+1988,Technical Control Facility
+1989,Time To Live
+1990,Token Ring
+1991,Traceroute
+1992,Traffic Shaping
+1993,Transport Layer
+1994,Transport Networks
+1995,Trunking
+1996,Unicast
+1997,Variable-Length Subnet Masking (VLSM)
+1998,Virtual Device
+1999,Virtual IP Address
+2000,Virtual Local Area Network (VLAN)
+2001,ViXS Systems
+2002,WAN Optimization
+2003,Wide Area Networks
+2004,Wifi Direct
+2005,Wireless Ad Hoc Networks
+2006,Wireless LAN
+2007,Wireless Mesh Networks
+2008,Wireless Networks
+2009,Wireless Planning
+2010,Wireless WAN
+2011,Wiring Closet
+2012,WPAN
+2013,Arc Digitized Raster Graphic
+2014,ArcEditor
+2015,ArcGIS (GIS Software)
+2016,ArcGIS Engine
+2017,ArcGIS Mapping
+2018,ArcGIS Servers
+2019,ArcGIS StoryMaps
+2020,ArcGIS Survey123
+2021,ArcIMS
+2022,ArcInfo
+2023,ArcMap
+2024,ArcObjects
+2025,Arcpy
+2026,ArcSDE
+2027,ArcView (Software)
+2028,CartoDB
+2029,Catalog Service For The Web
+2030,CommunityViz
+2031,Computer Mapping
+2032,Controlled Image Base
+2033,Device Tracking Software
+2034,Digital Mapping
+2035,Digital Point Positioning Data Base
+2036,Digital Terrain Elevation Data (DTED)
+2037,ECognition
+2038,Erdas Imagine
+2039,Feature Manipulation Engines
+2040,Federal Geographic Data Committee (FGDC) Standards
+2041,Geocoding
+2042,Geographic Information Systems
+2043,Geoinformatics
+2044,Geojson
+2045,GeoMedia
+2046,Geometric Networks
+2047,Geonames
+2048,Geoprocessing
+2049,Georeference
+2050,Geospatial Analysis
+2051,Geospatial Data Abstraction Library (GDAL)
+2052,Geospatial Databases
+2053,Geospatial Datasets
+2054,Geospatial Engineering
+2055,Geospatial Information Technology (GIT)
+2056,Geospatial Intelligence
+2057,Geospatial Mapping
+2058,GIS Applications
+2059,GIS Mapping
+2060,Global Mapper
+2061,Global Positioning Systems
+2062,Google Earth
+2063,GPS Data
+2064,GPS Navigation Devices
+2065,GPS Navigation Software
+2066,Keyhole Markup Language
+2067,Location Intelligence
+2068,Location-Based Services
+2069,Mapbox
+2070,MapInfo Professional
+2071,Mapkit
+2072,Mapping Software
+2073,Mapserver
+2074,Microsoft MapPoint
+2075,MrSID
+2076,OpenStreetMap
+2077,Oracle Spatial
+2078,Orthophoto
+2079,Pathfinder
+2080,Personal Navigation Assistant
+2081,Pictometry
+2082,PostGIS
+2083,Quantum GIS (QGIS)
+2084,RemoteView
+2085,Satellite Imagery
+2086,Satellite Tracking
+2087,Shapefile
+2088,Shuttle Radar Topography Mission
+2089,SOCET SET
+2090,Spatial Analysis
+2091,Spatial Data Infrastructures
+2092,Spatial Databases
+2093,Vector Data
+2094,Viewshed Analysis
+2095,Web Map Service
+2096,Web Mapping
+2097,1Password
+2098,Access Control List
+2099,Access Control Matrix
+2100,Access Method
+2101,Access Rules
+2102,Amazon Cognito
+2103,Auth0
+2104,Authentication Servers
+2105,Authentications
+2106,Authorization (Computing)
+2107,Authorization Certificates
+2108,AWS Identity And Access Management (IAM)
+2109,Azure Active Directory
+2110,Azure MFA
+2111,Basic Access Authentication
+2112,CA Identity Manager
+2113,Credential Manager
+2114,Credential Providers
+2115,CyberArk
+2116,Federated Identity Management
+2117,Forgerock
+2118,Freeipa
+2119,IBM Resource Access Control Facility
+2120,IBM Tivoli Directory Servers
+2121,Identity And Access Management
+2122,Identity Management Systems
+2123,Identity Verification
+2124,IdentityIQ
+2125,Information Access
+2126,Integrated Windows Authentication
+2127,Janrain
+2128,Logical Unit Number Masking
+2129,Microsoft Forefront Identity Manager
+2130,Microsoft Identity Integration Servers
+2131,Multi-Factor Authentication
+2132,NetIQ
+2133,NetIQ Access Manager
+2134,NetIQ EDirectory
+2135,NetIQ Identity Manager
+2136,Network Access Control
+2137,NT LAN Manager
+2138,OAuth
+2139,Okta
+2140,OpenDJ
+2141,OpenID
+2142,Oracle Access Manager
+2143,Oracle Identity Analytics
+2144,Oracle Identity Manager
+2145,Password Management
+2146,Password Policy
+2147,Password Safe
+2148,Password Synchronization
+2149,Pingfederate
+2150,Privileged User Management
+2151,Remote Authentication
+2152,Role-Based Access Control (RBAC)
+2153,RSA SecurID
+2154,Secure Password Authentication
+2155,Share Permissions
+2156,Single Sign-On (SSO)
+2157,Siteminder
+2158,Smart Cards
+2159,Terminal Access Controller Access-Control System (TACACS)
+2160,Tivoli Identity Manager
+2161,User Directory
+2162,User Identification
+2163,User Information
+2164,User Provisioning
+2165,Web Access Control
+2166,Web Access Management
+2167,Windows Identity Foundation
+2168,Adobe Flash Builder
+2169,Apple Xcode
+2170,Aqua Data Studio
+2171,Business Intelligence Development Studio
+2172,Cloud9 (Software)
+2173,Code Composer Studio
+2174,Delphi (Programming Language)
+2175,Eclipse (Software)
+2176,Force.Com
+2177,IBM Data Studio
+2178,IBM Rational Application Developer
+2179,IBM VisualAge
+2180,IDA Pro
+2181,Integrated Development Environments
+2182,IntelliJ IDEA
+2183,JBuilder
+2184,JDeveloper
+2185,JetBrains IDE
+2186,LANSA
+2187,MavensMate IDE
+2188,Microsoft Platform Builder
+2189,MPLAB IDE
+2190,MyEclipse
+2191,NetBeans
+2192,Oracle JDeveloper
+2193,Oracle SQL Developer
+2194,PhpStorm
+2195,PowerBuilder
+2196,QT Creator
+2197,Web Ide
+2198,WebStorm
+2199,Amazon Alexa
+2200,AWS Internet Of Things (IoT)
+2201,Azure Internet Of Things (IoT)
+2202,Connected Devices
+2203,Google Home
+2204,Industrial Internet Of Things (IIoT)
+2205,Internet Of Things (IoT)
+2206,Machine-To-Machine (M2M)
+2207,Predix
+2208,Smart Device
+2209,Smart Glasses
+2210,Smart Lighting
+2211,Smart Systems
+2212,Smart Tv
+2213,Smartthings
+2214,Voice Command Devices
+2215,Watson IoT
+2216,Wearables
+2217,Alamofire
+2218,App Store (IOS)
+2219,Apple CarPlay
+2220,Apple HealthKit
+2221,Apple IOS
+2222,Apple Push Notification Service
+2223,Apple Watch
+2224,Applepay
+2225,Cloudkit
+2226,Cocoa Touch
+2227,CocoaPods
+2228,Core Data (Software)
+2229,Core Location Manager (Apple IOS)
+2230,Core Text
+2231,Interface Builder
+2232,IOS Applications
+2233,IOS Development
+2234,IOS SDK
+2235,IPod Touch
+2236,Size Classes
+2237,Testflight
+2238,Uikit
+2239,Watchkit
+2240,watchOS
+2241,WKWebView
+2242,Ansible
+2243,Ansible Playbook
+2244,Ansible Tower
+2245,AnthillPro
+2246,Apache Ant
+2247,Apache Maven
+2248,Apple Automator (OS X)
+2249,Application Release Automation
+2250,Appveyor
+2251,Atlassian Bamboo
+2252,Auto Build
+2253,Autodeploy
+2254,Automake
+2255,Automation Anywhere (RPA Software)
+2256,Batch Message Processing
+2257,Batch Processing
+2258,Bazel
+2259,BladeLogic
+2260,BluePrism (RPA Software)
+2261,Build Automation
+2262,Build Tools
+2263,Buildbot
+2264,CA Workload Automation Ae
+2265,Camunda
+2266,ChatOps
+2267,Cloud Automation
+2268,CMake
+2269,Control-M (Batch Scheduling Software)
+2270,CruiseControl
+2271,Delivery Pipelines
+2272,Drawloop (Software)
+2273,Electricflow
+2274,GNU Build Systems
+2275,Gnu Make
+2276,Google Kubernetes Engine (GKE)
+2277,Gradle
+2278,Ifttt
+2279,Infrastructure Automation
+2280,Jenkins
+2281,Job/Batch Scheduling
+2282,Kubernetes
+2283,Make (Software)
+2284,Microsoft Power Automate/Flow
+2285,MSBuild
+2286,Network Automation
+2287,Octopus Deploy
+2288,Oracle Workflow
+2289,Package Management Systems
+2290,Pega Robotics Software
+2291,Quickbuild
+2292,Rancher (Software)
+2293,Robotic Automation Software
+2294,Robotic Process Automation
+2295,Rundeck
+2296,Salt Stack
+2297,SAP Business Workflow
+2298,SCons
+2299,Server Automation
+2300,Slurm (Batch Scheduling Software)
+2301,Suitescript
+2302,Teamcity
+2303,Travis Ci
+2304,UiPath (RPA Software)
+2305,WinAutomation
+2306,Winshuttle (RPA Software)
+2307,WorkFusion
+2308,XLDeploy
+2309,Automated Information System (AIS)
+2310,Automated Logic WebCTRL
+2311,Automated Message Handling Systems
+2312,Automatic Control
+2313,Automatic Identification And Data Capture
+2314,Automatic Information Technology
+2315,Automatic Test Equipment
+2316,Automation Controls
+2317,Automation Protocols
+2318,Autonomous System
+2319,Airwatch
+2320,Apple Device Enrollment Program (DEP)
+2321,Architectural Leadership
+2322,Availability Management
+2323,Availability Monitoring
+2324,Azure Cost Management
+2325,Build Management
+2326,Capacity Management
+2327,Cyber Security Management
+2328,Dependency Management
+2329,Desktop Management
+2330,Device Management
+2331,Digital Rights Management
+2332,Digital Transformation
+2333,Email Migration
+2334,Environment Management
+2335,Fault Management
+2336,Hardware Asset Management
+2337,HP Service Manager Software
+2338,Hybrid Integration
+2339,IBM Tivoli Management Framework
+2340,Incident Management
+2341,Incident Response Management
+2342,Information Security Management
+2343,Information Security Management Systems
+2344,Information Technology Controls
+2345,Information Technology Infrastructure Library
+2346,Information Technology Management
+2347,Information Technology Operations
+2348,Information Technology Outsourcing
+2349,Information Technology Planning
+2350,Infrastructure as Code (IaC)
+2351,Infrastructure Management
+2352,Infrastructure Management Services
+2353,ISO/IEC 20000
+2354,IT Asset Disposition (ITAD)
+2355,IT Asset Management
+2356,IT General Controls (ITGC)
+2357,IT Portfolio Management
+2358,IT Service Management
+2359,ITIL Security Management
+2360,Itilv3
+2361,Jamf
+2362,JFrog
+2363,ManageEngine AssetExplorer
+2364,Management Information Systems
+2365,Microsoft Intune (Mobile Device Management Software)
+2366,Microsoft Mobile Device Management
+2367,Microsoft Operations Framework
+2368,Mobile Device Management
+2369,Mobileiron
+2370,OpenManage
+2371,Operations Architecture
+2372,Problem Management
+2373,Release Management
+2374,Remote Infrastructure Management
+2375,Service Control Management
+2376,Service Delivery Framework
+2377,Service Integration And Management
+2378,Service Provisioning
+2379,Service Tier
+2380,ServiceNow
+2381,Snow (Software)
+2382,Software Asset Management
+2383,Software Estimation
+2384,Software Licensing Audit
+2385,Storage Management
+2386,Symantec Altiris
+2387,System Migration
+2388,Technical Management
+2389,Technological Transitions
+2390,Technology Assessment
+2391,Technology Life Cycle
+2392,Technology Roadmaps
+2393,Technology Scouting
+2394,Technology Strategies
+2395,Informatics
+2396,Information Sciences
+2397,Information Technology Audits
+2398,Information Technology Consulting
+2399,Information Technology Security Auditing
+2400,SAP Governance Risk And Compliance Analytics Software
+2401,SAP Treasury And Risk Management
+2402,Enterprise Risk Management (ERM)
+2403,IT Risk Management
+2404,Data Policy Development
+2405,Data Privacy Laws
+2406,Data Steward
+2407,Information Policy
+2408,Adobe JRun
+2409,Ajax (Programming Language)
+2410,Apache Myfaces
+2411,Apache Openjpa
+2412,AspectJ
+2413,Direct Web Remoting (Java)
+2414,Dropwizard
+2415,Easy Java Simulations
+2416,Ebean
+2417,EclipseLink
+2418,Enterprise JavaBeans
+2419,Event Listeners (Java)
+2420,Generics In Java
+2421,Google Gson (Java Library)
+2422,Google Guice
+2423,Hibernate (Java)
+2424,JaCoCo
+2425,Java (Programming Language)
+2426,Java 11
+2427,Java 7
+2428,Java 8
+2429,Java 9
+2430,Java Annotation
+2431,Java Applet
+2432,Java Application Server
+2433,Java Architecture For XML Binding
+2434,Java Architectures
+2435,Java Authentication And Authorization Services
+2436,Java Batch
+2437,Java Business Process Management
+2438,Java Code Coverage Tools
+2439,Java Collections Framework
+2440,Java Concurrency
+2441,Java Cryptography Extension
+2442,Java Data Objects
+2443,Java Database Connectivity
+2444,Java Development Kit
+2445,Java Development Tools
+2446,Java EE Application
+2447,Java EE Connector Architecture
+2448,Java Enterprise Edition
+2449,Java Management Extensions
+2450,Java Media Framework
+2451,Java Naming And Directory Interface
+2452,Java Native Interface
+2453,Java Object Oriented Querying
+2454,Java Package
+2455,Java Persistence Query Language
+2456,Java Platform Enterprise Edition (J2EE)
+2457,Java Platform Micro Edition (J2ME)
+2458,Java Platform Standard Edition (J2SE)
+2459,Java Portlet Specification
+2460,Java Profiler
+2461,Java Runtime Environment
+2462,Java Scripting Languages
+2463,Java Secure Socket Extension
+2464,Java Servlet
+2465,Java Specification Requests (JSRs)
+2466,Java Web Start
+2467,Java XML
+2468,JavaBeans
+2469,JavaBeans Activation Framework
+2470,Javadoc
+2471,JavaFX
+2472,JavaServer Faces
+2473,JavaServer Pages
+2474,JavaServer Pages Standard Tag Library
+2475,JAX-WS
+2476,JConsole
+2477,JdbcTemplate
+2478,Jdom
+2479,Jest (JavaScript Testing Framework)
+2480,Jetty
+2481,JiBX
+2482,jMock
+2483,JMockit
+2484,JPA2
+2485,JSF 2
+2486,Jstack
+2487,Jython
+2488,Message Driven Beans
+2489,MyBatis
+2490,Powermock
+2491,Powermockito
+2492,Primefaces
+2493,Restlet
+2494,RichFaces
+2495,RxJava
+2496,Session Beans
+2497,Standard Widget Toolkits
+2498,Swing (Java)
+2499,Thymeleaf
+2500,TopLink
+2501,XDoclet
+2502,Yourkit
+2503,Zipkin
+2504,ag-Grid
+2505,amCharts
+2506,Apollo Client
+2507,Aurelia
+2508,Axios (JavaScript Library)
+2509,Backbone.js
+2510,Breeze.js
+2511,Browserify
+2512,CanJS
+2513,CasperJS
+2514,CommonJS
+2515,Cucumber.js
+2516,D3.js
+2517,Dojo Toolkit
+2518,DOM Scripting
+2519,Durandal
+2520,Dust.js
+2521,ECMAScript 2015
+2522,ECMAScript 2016
+2523,ECMAScript 2017
+2524,Ember.js
+2525,Express.js
+2526,Ext JS
+2527,Gatsby.js
+2528,Grunt.js
+2529,Gulp.js
+2530,Handlebars.js
+2531,Hapi.js
+2532,Highcharts
+2533,Immutable.js
+2534,JavaScript Build
+2535,JavaScript Engine
+2536,JavaScript Frameworks
+2537,JavaScript Libraries
+2538,Jqgrid
+2539,JQuery
+2540,JQuery Mobile
+2541,JQuery UI
+2542,JScript
+2543,JSHint
+2544,JSLint
+2545,jSPM (JavaScript Package Manager)
+2546,Kendo UI (User Interface Framework)
+2547,Knockout.js
+2548,Leaflet (Software)
+2549,Lodash
+2550,Marionette.js
+2551,MeteorJS
+2552,MobX
+2553,Modernizr
+2554,MooTools
+2555,NativeScript
+2556,Next.js
+2557,Node.js
+2558,Node-RED
+2559,Nuxt.Js
+2560,Object-Oriented JavaScript
+2561,OpenLayers
+2562,Oracle Javascript Extension Toolkit (JET)
+2563,PhantomJS
+2564,Prototype JavaScript Framework
+2565,Query Builder
+2566,React Jsx
+2567,React Native
+2568,React Redux
+2569,React.js
+2570,Reactstrap
+2571,RequireJS
+2572,Restify
+2573,Rollup
+2574,RxJS
+2575,Sapui5
+2576,Script.Aculo.Us
+2577,Sencha Touch
+2578,Sequelize.js
+2579,Settimeout
+2580,Sinon
+2581,SPServices
+2582,SystemJS
+2583,Three.js
+2584,Underscore.js
+2585,Unobtrusive JavaScript
+2586,Video.js
+2587,Vue.js
+2588,Vuex
+2589,Webpack
+2590,Webpack 4
+2591,WinJS
+2592,Yahoo! User Interface Library (YUI)
+2593,Zepto
+2594,Apache Flume
+2595,Electronic Logbook
+2596,Error Logging Modules And Handlers (ELMAH)
+2597,Event Logging
+2598,Event Viewer
+2599,Filebeat
+2600,Graylog
+2601,IIS Logs
+2602,Internal Logging
+2603,Java Logging Framework
+2604,Log Analysis
+2605,Log Files
+2606,Log Management And Intelligence
+2607,Log Monitoring
+2608,Log Shipping
+2609,Log4j
+2610,Logback
+2611,Logcat
+2612,Logfiles
+2613,Logrotate
+2614,Rsyslog
+2615,Simple Logging Facade For Java (SLF4J)
+2616,Syslog
+2617,WhatsUp Gold (Software)
+2618,Access Control Facility
+2619,Coupling Facility
+2620,Customer Information Control System (CICS)
+2621,Easytrieve
+2622,Endevor (Software)
+2623,Enterprise Systems Connection (ESCON)
+2624,FileAid (Software)
+2625,IBM Mainframe
+2626,IBM Mainframe Utility Programs
+2627,IBM OMEGAMON
+2628,IBM System Z
+2629,IBM Time Sharing Option
+2630,IBM Workload Manager For Z/OS (WLM/SRM)
+2631,IBM ZEnterprise Systems
+2632,Idms
+2633,IEFBR14
+2634,Interactive System Productivity Facility (ISPF)
+2635,Job Control Language (JCL)
+2636,Job Entry Subsystem 2/3
+2637,Mainframe Computing
+2638,Mainframe Testing
+2639,MVS (OS)
+2640,Panvalet
+2641,Resource Access Control Facility
+2642,System Display And Search Facility (SDSF)
+2643,Virtual Telecommunications Access Methods
+2644,VSE (Operating System)
+2645,XPEDITER
+2646,z/OS
+2647,Adware
+2648,Antivirus Software
+2649,AVG (Software)
+2650,Computer Virus
+2651,Kaspersky Anti-Virus
+2652,Mac Defender
+2653,Malware Analysis
+2654,Malware Detection
+2655,Malware Reverse Engineering
+2656,Malwarebytes' Anti-Malware
+2657,McAfee VirusScan
+2658,Microsoft Antivirus
+2659,Microsoft Security Essentials
+2660,Nessus
+2661,Nexpose (Vulnerability Scanning Software)
+2662,Norton Antivirus
+2663,Open Source Host-Based Intrusion Detection Systems
+2664,Palo Alto Wildfire
+2665,Rootkit
+2666,SONAR (Symantec)
+2667,Spyware
+2668,Symantec Endpoint Protection
+2669,Websense
+2670,Windows Defender
+2671,.NET Assemblies
+2672,.NET Framework
+2673,.NET Framework 1
+2674,.NET Framework 3
+2675,.NET Framework 4
+2676,.NET MAUI (Multi-Platform App UI)
+2677,Active Server Pages (ASP)
+2678,ActiveX
+2679,ActiveX Data Objects
+2680,ADO.NET (Programming Language)
+2681,ASP.NET
+2682,ASP.NET Core
+2683,ASP.NET Core MVC
+2684,ASP.NET Extensions For AJAX
+2685,ASP.NET MVC 5
+2686,ASP.NET MVC Framework
+2687,ASP.NET Razor
+2688,ASP.NET Web API
+2689,Azure Service Fabric
+2690,Bot Framework
+2691,ClickOnce
+2692,Component Object Model (COM)
+2693,DirectX (Software)
+2694,Entity Framework
+2695,Language Integrated Query
+2696,Live Connect (Windows)
+2697,Microsoft Blend
+2698,Microsoft Enterprise Library
+2699,Microsoft File Compare
+2700,Microsoft Framework
+2701,Microsoft Frontpage
+2702,Microsoft Silverlight
+2703,Microsoft Visual C Sharp
+2704,Microsoft Visual SourceSafe
+2705,Microsoft Visual Studio
+2706,Microsoft WebMatrix
+2707,MSDN-The Microsoft Developer Networks
+2708,Mvc.net
+2709,NHibernate
+2710,Object Linking And Embedding (OLE)
+2711,Powerapps
+2712,Provider Model
+2713,SignalR
+2714,Unity Container
+2715,User-Mode Driver Framework
+2716,Visual Assist
+2717,Visual InterDev
+2718,Visual Studio Online
+2719,Visual Studio Tools for Office (VSTO)
+2720,Wcf Data Services
+2721,Webapi2
+2722,Windows App Studio
+2723,Windows Communication Foundation
+2724,Windows Driver Kit
+2725,Windows Forms
+2726,Windows Interface Source Environment
+2727,Windows Presentation Foundation
+2728,Windows Workflow Foundation
+2729,AutoIt
+2730,BitLocker Drive Encryption
+2731,Daemon Tools
+2732,Desktop Window Management
+2733,Dynamic-Link Libraries
+2734,Extended File Allocation Table (ExFAT)
+2735,File Replication Service
+2736,HTML Application
+2737,InstallShield
+2738,Kernel-Mode Driver Framework
+2739,Microsoft Deployment Toolkit
+2740,Resource Kit (Windows Administration)
+2741,Resource Monitor
+2742,Roaming User Profile
+2743,Robocopy
+2744,Session Manager SubSystems
+2745,Sysinternals
+2746,System Properties
+2747,Universal Windows Platform
+2748,WinDBg
+2749,WindowBlinds (Software)
+2750,Windows Automated Installation Kit
+2751,Windows Console
+2752,Windows Deployment Services
+2753,Windows Desktop
+2754,Windows Embedded
+2755,Windows Fundamentals For Legacy PCs
+2756,Windows Image Acquisition
+2757,Windows Installer
+2758,Windows Installer XML (WIX)
+2759,Windows Legacy Audio Components
+2760,Windows Mail
+2761,Windows Management Instrumentation
+2762,Windows Media
+2763,Windows Mobile
+2764,Windows Preinstallation Environments
+2765,Windows Programming
+2766,Windows Registry
+2767,Windows Search
+2768,Windows Security
+2769,Windows Service
+2770,Windows Shell
+2771,Windows Software
+2772,Windows Template Libraries
+2773,Windows USER
+2774,WinINSTALL
+2775,Winrm
+2776,Wintel
+2777,Xperf
+2778,Advanced Message Queuing Protocol
+2779,Amazon MQ
+2780,Amazon Simple Queue Services
+2781,Android Middleware
+2782,Apache ActiveMQ
+2783,BlackBerry Enterprise Servers
+2784,Common Object Request Broker Architecture
+2785,Connect-Direct (Internet Protocols Based Network Software)
+2786,Data Distribution Services
+2787,Enterprise Messaging Systems
+2788,FileZilla
+2789,Hornetq
+2790,IBM WebSphere MQ
+2791,Integration Platforms
+2792,Java Message Service (JMS)
+2793,JBoss Messaging
+2794,Message Broker
+2795,Message-Oriented Middleware
+2796,Messages Servers
+2797,Microsoft Biztalk Servers
+2798,Microsoft Message Queuing
+2799,Middleware
+2800,Netflix Eureka
+2801,Oracle Advanced Queuing
+2802,Oracle Application Server
+2803,Oracle Aq
+2804,Oracle Forms
+2805,Oracle Fusion Middleware
+2806,Peoplesoft Integration Broker
+2807,Persistence Framework
+2808,Publish Subscribe
+2809,RabbitMQ
+2810,Redux-Saga
+2811,Sap Business Connector
+2812,TIBCO EMS
+2813,Tuxedo (Software)
+2814,Visibroker
+2815,Accelerated Mobile Pages
+2816,Mobile Application Software
+2817,Amazon AppStore
+2818,Android Applications
+2819,Android ButterKnife
+2820,Android Debug Bridge
+2821,Android Development
+2822,Android Emulators
+2823,Android Jetpack
+2824,Android Multimedia
+2825,Android NDK
+2826,Android SDK
+2827,Android Software Development
+2828,Android Studio
+2829,Android Testing
+2830,Android UI
+2831,Apache Cordova
+2832,Appcelerator
+2833,Auto Layout
+2834,BlackBerry World
+2835,Bluetooth Stack
+2836,Cordova Plugins
+2837,Crashlytics
+2838,Dagger 2
+2839,Firebase
+2840,Firebase Analytics
+2841,Flutter (Software)
+2842,Google Play
+2843,Google Play Console
+2844,Hockeyapp
+2845,Hybrid Mobile App
+2846,IBM Mobile
+2847,IBM Worklight
+2848,Ionic Framework
+2849,Ionic Native
+2850,Mbaas
+2851,Mobile Application Design
+2852,Mobile Application Development
+2853,Mobile Architecture
+2854,Mobile Platform Development
+2855,Okhttp
+2856,PhoneGap
+2857,Pixate
+2858,Proguard
+2859,Push Technology
+2860,Rooting (Android OS)
+2861,Windows Phone
+2862,Xamarin
+2863,Xamarin Studio
+2864,6LoWPAN
+2865,Address Resolution Protocols
+2866,AppleTalk
+2867,Application Configuration Access Protocols
+2868,Authentication Protocols
+2869,BACnet
+2870,Bootstrap Protocol
+2871,Border Gateway Protocol
+2872,Camera Link
+2873,CAN Bus
+2874,CANopen
+2875,Cisco Discovery Protocol
+2876,Collection Tree Protocol (CTP)
+2877,ControlNet Protocols
+2878,Data Link Layer
+2879,Data-Link Switching
+2880,Distance Vector Multicast Routing Protocol
+2881,Distributed Network Protocol (DNP3)
+2882,DOCSIS Timing Interface
+2883,Dynamic Host Configuration Protocol (DHCP)
+2884,Dynamic Trunking Protocol
+2885,Enhanced Interior Gateway Routing Protocols
+2886,Ethernet Frame
+2887,EVPN (Ethernet VPN)
+2888,Extensible Authentication Protocol
+2889,Extensible Messaging And Presence Protocol (XMPP)
+2890,Fiber Channel
+2891,Fibre Channel Over IP
+2892,File Service Protocol
+2893,File Transfer Protocol (FTP)
+2894,First-Hop Redundancy Protocols
+2895,FlexRay
+2896,G.729 Standard
+2897,Gateway Load Balancing Protocols
+2898,Generalized Multi-Protocol Label Switching
+2899,Generic Routing Encapsulation
+2900,Gigabit Ethernet
+2901,High-Level Data Link Controls
+2902,Hot Standby Router Protocol
+2903,iBeacon Protocol
+2904,IBM Advanced Peer-To-Peer Networking
+2905,IBM Fibre Connection (FICON) Protocol
+2906,IEEE 802
+2907,IEEE 802.11
+2908,IEEE 802.1ad
+2909,IEEE 802.1Q
+2910,IEEE 802.3
+2911,IMAP (Internet Message Access Protocol)
+2912,Intelligent Network Application Protocol (INAP)
+2913,Interior Gateway Routing Protocols
+2914,Internet Control Message Protocol (ICMP)
+2915,Internet Group Management Protocols
+2916,Internet Protocols
+2917,Internet Protocols Suite
+2918,Internet Security Association And Key Management Protocols
+2919,Internet Small Computer System Interface (ISCSI)
+2920,Internetwork Packet Exchange (IPX)
+2921,Internetwork Packet Exchange/Sequenced Packet Exchange (IPX/SPX)
+2922,IP Flow Information Export
+2923,IPv4
+2924,IPv6
+2925,IPv6 Address
+2926,JSON-RPC Protocol
+2927,Kerberos (Protocol)
+2928,Keyword Protocol 2000
+2929,Layer 2 Tunneling Protocol Version 3 (L2TPv3)
+2930,Layer 2 Tunneling Protocols
+2931,Lightweight Access Point Protocol
+2932,Link Control Protocol
+2933,Link Layer Discovery Protocol
+2934,Link Manager Protocol
+2935,Management Component Transport Protocols
+2936,Message Queuing Telemetry Transport (MQTT)
+2937,Multicast Address Allocation Server
+2938,Multicast Routing Protocols
+2939,Multicast Source Discovery Protocol
+2940,Multi-Link Point-To-Point Protocol
+2941,Multiprotocol BGP
+2942,Multiprotocol Label Switching
+2943,Net Tcp
+2944,Netconf
+2945,Network News Transfer Protocol
+2946,Network Protocol Analysis
+2947,Network Protocols
+2948,Network Time Protocol Daemon (NTPD)
+2949,Network Time Protocols
+2950,NPIV
+2951,Online Certificate Status Protocol
+2952,Open Data Protocol
+2953,Open Shortest Path First (OSPF)
+2954,OpenFlow
+2955,OpenLDAP
+2956,Optical Transport Networks
+2957,OSI Protocols
+2958,OTN
+2959,Overlay Transport Virtualization
+2960,Point-To-Point Protocol Over Ethernet
+2961,Point-To-Point Tunneling Protocol (PPTP)
+2962,Port Aggregation Protocols
+2963,Protocol Implementation Conformance Statement
+2964,Protocol Independent Multicast
+2965,Protocol Stack
+2966,Quagga (Software)
+2967,Remote Authentication Dial In User Service (RADIUS)
+2968,Remote Desktop Protocol (RDP)
+2969,Remote Imaging Protocols
+2970,Reverse Address Resolution Protocols
+2971,Routing Information Protocols
+2972,Routing Information Protocols V1
+2973,Routing Information Protocols V2
+2974,Routing Protocols
+2975,RTP Control Protocol
+2976,Samba (Software)
+2977,Secure FTP (Software)
+2978,Server Message Block
+2979,Session Description Protocol
+2980,Session Description Protocol Security Descriptions (SDES)
+2981,Session Initiation Protocols
+2982,Signalling Connection Control Part (SCCP)
+2983,Simple Network Management Protocols
+2984,Simple Object Access Protocol (SOAP)
+2985,SMTP (Simple Mail Transfer Protocol)
+2986,Spanning Tree Protocols
+2987,Stream Control Transmission Protocols
+2988,TCP/IP
+2989,Telnet
+2990,Transmission Control Protocol (TCP)
+2991,Trivial File Transfer Protocols
+2992,Tunneling Protocol
+2993,Unidirectional Link Detection
+2994,User Datagram Protocol
+2995,Virtual Router Redundancy Protocols
+2996,VLAN Trunking Protocol (VTP)
+2997,Web Cache Communication Protocols
+2998,WebSocket
+2999,WinSCP
+3000,Winsock File Transfer Protocol (WS_FTP)
+3001,Wireless Application Protocol (WAP)
+3002,Wireless Distribution Systems
+3003,X.500 (OSI Protocols)
+3004,XAUI Standard
+3005,Z-Wave Protocol
+3006,AAA Server (Authentication Authorization And Accounting)
+3007,Aircrack-Ng
+3008,Application Firewall
+3009,Aruba ClearPass
+3010,AS2
+3011,Azure Firewall
+3012,Bluecoat Proxies
+3013,Botnet
+3014,Cisco firePOWER
+3015,Cisco NAC Appliance
+3016,Cisco Systems VPN Client
+3017,Classified Networks
+3018,Cloud Access Security Broker Tools (CASBs)
+3019,Cloud Security Architecture
+3020,Cloud Security Infrastructure
+3021,Cloud Security Strategy
+3022,Computer Network Defense
+3023,Context-Based Access Controls
+3024,Deep Packet Inspection
+3025,Demilitarized Zones (DMZ)
+3026,DHCP Snooping
+3027,Distributed Firewall
+3028,Domain Controllers
+3029,Domain Name System Security Extensions
+3030,Dynamic Multipoint Virtual Private Networks
+3031,Enterprise Network Security
+3032,Firewall
+3033,Firewalld
+3034,Fortinet
+3035,FreeRADIUS
+3036,Google Cloud Security
+3037,Host-Based Intrusion Detection Systems
+3038,Hping - Active Network Security Tool
+3039,Identity Services Engine
+3040,IEEE 802.1AE
+3041,Imperva
+3042,Internet Protocol Security (IP SEC)
+3043,Intrusion Detection And Prevention
+3044,Intrusion Detection Systems
+3045,IP Access Controllers
+3046,IPSec Tunnels
+3047,IronPort
+3048,Ixia BreakingPoint
+3049,Kismet (Software)
+3050,McAfee Firewall
+3051,McAfee Network Security
+3052,Microsoft Azure Expressroute
+3053,Microsoft Forefront Threat Management Gateway
+3054,Mobile Virtual Private Networks
+3055,MPLS VPN
+3056,NAT Traversal
+3057,NetFlow
+3058,NetScreen
+3059,NetStumbler
+3060,Network Admission Control
+3061,Network Diagnostics
+3062,Network Encryption
+3063,Network Enumeration
+3064,Network Flow
+3065,Network Intrusion Detection And Prevention
+3066,Network Security
+3067,Network Security Administrator
+3068,Network Security Policy
+3069,Network Security Services
+3070,Network Traffic Analysis
+3071,Nmap
+3072,OpenSSH
+3073,OpenVPN
+3074,Packet Analyzer
+3075,Palo Alto Firewalls
+3076,Personal Firewall
+3077,PfSense
+3078,Proxy Servers
+3079,Qualys
+3080,Rate Limiting
+3081,Remote Access Policies
+3082,Secure Gateway
+3083,Secure Network Communications
+3084,Secure Remote Password Protocols
+3085,SecureCRT
+3086,Security Domain
+3087,Security Onion (Intrusion Detection System)
+3088,Sniffers
+3089,Sonicwall
+3090,SSL Security
+3091,Stateful Firewall
+3092,Systrace
+3093,TCP Wrapper
+3094,Tcpdump
+3095,TippingPoint
+3096,Transport Layer Security (TLS)
+3097,Trusted Internet Connections
+3098,Verisign
+3099,Virtual Firewall
+3100,Virtual Private LAN Services
+3101,Virtual Private Networks (VPN)
+3102,VPN Clients
+3103,VPN Tunnels
+3104,Web Server Security
+3105,Wi-Fi Protected Access
+3106,WiFi Security
+3107,Windows Firewall
+3108,Wireless Intrusion Prevention Systems
+3109,Wireless Security
+3110,Wireless Transport Layer Security
+3111,X.509
+3112,XML Firewall
+3113,Zoning (Networking)
+3114,56 Kbit/S Modems
+3115,ABR Routers
+3116,Brocade Network Technologies
+3117,Brocade Switches
+3118,Celerra (Server Appliance)
+3119,Channel Router
+3120,Cisco Adaptive Security Appliance (ASA)
+3121,Cisco Hardwares
+3122,Cisco Nexus Switches
+3123,Cisco PIX
+3124,Cisco Routers
+3125,Cisco Switching
+3126,Data Cabling
+3127,Data Highway Plus
+3128,Dell Equallogic
+3129,Dell IDRAC
+3130,Dell PowerConnect
+3131,Digital Subscriber Line Access Multiplexer
+3132,DisplayPort
+3133,DSL Modems
+3134,Endpoint Devices
+3135,Ethernet Hub
+3136,Ethernet Over Twisted Pair
+3137,Ethernet Physical Transceiver
+3138,IBM 37xx
+3139,Integrated Access Devices
+3140,Integrated Service Routers
+3141,Juniper M Series (Juniper Networks)
+3142,Juniper Routers
+3143,Label Switching Router (MPLS Networking)
+3144,MiFi
+3145,Modems
+3146,Multilayer Switch
+3147,Network Adapters
+3148,Network Bridges
+3149,Network Interface Controllers
+3150,Network Interface Device
+3151,Network On A Chip
+3152,Network Processor
+3153,Network Switches
+3154,Networking Cables
+3155,Networking Hardware
+3156,Patch Panels
+3157,Power Over Ethernet
+3158,VLAN Management Policy Server
+3159,Wireless Access Point
+3160,Wireless Bridge
+3161,Wireless LAN Controllers
+3162,Wireless Network Interface Controllers
+3163,Wireless Router
+3164,AFNetworking
+3165,AirMagnet (Site Survey Software)
+3166,AirSnort
+3167,Aruba (Network Management Software)
+3168,Cacti
+3169,Cisco DNA Center
+3170,Cisco Firewall Services Module (FWSM)
+3171,Cisco Meraki
+3172,Cisco Packet Tracer
+3173,Cisco Software
+3174,EHealth
+3175,Ekahau Site Survey
+3176,GNS3
+3177,HP OpenView
+3178,Hystrix
+3179,Icinga
+3180,Iperf
+3181,IxChariot (Traffic Generator)
+3182,Ixia (Network Tools)
+3183,IxLoad (Network Testing Tool)
+3184,IxVeriWave (Network Test Tool)
+3185,Lync SDN (Software-Defined Networking) Manager
+3186,Microsoft Network Monitor
+3187,Multi Router Traffic Grapher
+3188,Nbtstat
+3189,Netfilter
+3190,Network Based Application Recognition (NBAR) - Cisco
+3191,Nslookup
+3192,OmniPeek
+3193,OpenDaylight
+3194,OpenNMS
+3195,OPNET
+3196,Packet Generators
+3197,Packeteer
+3198,Paessler Router Traffic Grapher
+3199,Ping (Networking Utility)
+3200,Protocol Analyzer
+3201,PuTTY (Application)
+3202,Riverbed (Software)
+3203,Scapy
+3204,Spiceworks
+3205,Virtual Routers
+3206,Wireshark
+3207,Zabbix
+3208,Android (Operating System)
+3209,BlackBerry OS
+3210,CentOS
+3211,Chrome OS
+3212,Cisco IOS
+3213,Common Desktop Environments
+3214,Convergent Technologies Operating Systems
+3215,CoreOS
+3216,Data ONTAP (Server Appliance)
+3217,Debian Linux
+3218,Deep Six Operating System (DSOS)
+3219,Disk Operating Systems
+3220,Embedded Operating Systems
+3221,EXT3
+3222,Fabric Operating System
+3223,Fedora Linux
+3224,FreeBSD
+3225,FreeRTOS
+3226,Gentoo Linux
+3227,GNOME (GNU Project Software)
+3228,Green Hills Integrity
+3229,HP-UX
+3230,IBM AIX
+3231,IBM I
+3232,IBM OS/2 (Software)
+3233,IBM OS/390
+3234,Inode
+3235,Internetwork Operating System
+3236,IRIX
+3237,Junos
+3238,Linux
+3239,Linux Console
+3240,Linux Distribution
+3241,Linux Kernel
+3242,Linux On System Z
+3243,Loadable Kernel Module
+3244,LynxOS
+3245,Mac OS
+3246,Mac OS X
+3247,macOS Mojave
+3248,macOS Sierra
+3249,MicroC/OS-II
+3250,Microsoft Operating Systems
+3251,Microsoft Windows
+3252,Microsoft Windows 10
+3253,Microsoft Windows 7
+3254,Microsoft Windows 8
+3255,Microsoft Windows CE
+3256,Microsoft Windows ME
+3257,Microsoft Windows NT
+3258,Microsoft Windows SDK
+3259,Microsoft Windows Vista
+3260,Microsoft Windows XP
+3261,Microsoft Windows XP Professional X64 Edition
+3262,Microsoft XP
+3263,MQX
+3264,NetWare
+3265,Network Operating System (NOS)
+3266,Novell Network
+3267,OpenBSD
+3268,OpenVMS
+3269,OpenWrt
+3270,Oracle Linux
+3271,OS 2200 (Unisys Operating Systems)
+3272,PSOS
+3273,QNX (Software)
+3274,Real-Time Operating Systems
+3275,Red Hat Linux
+3276,Rhel5
+3277,Rhel7
+3278,RTLinux
+3279,Scientific Linux
+3280,SCO OpenServers
+3281,Slackware
+3282,Solaris (Operating System)
+3283,Standard Operating Environments
+3284,Stratus VOS
+3285,SunOS
+3286,SUSE Linux
+3287,SUSE Linux Distributions
+3288,Symbian
+3289,ThreadX
+3290,Tizen
+3291,Tru64 Unix
+3292,tvOS
+3293,Ubuntu (Operating System)
+3294,Unix
+3295,Unix Kernel
+3296,Unix System Services
+3297,Userspace
+3298,VM (Operating System)
+3299,VxWorks
+3300,Wear OS
+3301,Web Operating Systems
+3302,WebOS
+3303,Windows Servers
+3304,Ada (Programming Language)
+3305,Advanced Business Application Programming (ABAP)
+3306,Agilent VEE (Domain-Specific Programming Language)
+3307,ALGOL (ALGOrithmic Language)
+3308,AMPL
+3309,AMX Programming
+3310,Apex Code
+3311,Asciidoc
+3312,Assembly Language
+3313,Automatically Programmed Tool
+3314,C# (Programming Language)
+3315,CBASIC
+3316,Client/Server Application Language (C/AL)
+3317,CLIST
+3318,Clojure
+3319,CoffeeScript
+3320,Common Lisp Object Systems
+3321,Dart (Programming Language)
+3322,Data Manipulation Language
+3323,Derivative TouchDesigner
+3324,Domain-Specific Language
+3325,Elixir (Programming Language)
+3326,Eltron Programming Language
+3327,Embedded Domain-Specific Languages
+3328,Erlang
+3329,Event Processing Language
+3330,Executive Control Language
+3331,F# (Programming Language)
+3332,FOIL (Programming Language)
+3333,Fortran (Programming Language)
+3334,Fortran90
+3335,Fourth-Generation Programming Language
+3336,Go (Programming Language)
+3337,Gosu (Programming Language)
+3338,Haskell (Programming Language)
+3339,HP BASIC
+3340,IBM Basic Assembly Language And Successors
+3341,IBM High Level Assembler
+3342,IBM Informix-4GL
+3343,IBM RPG (Programming Language)
+3344,Integration DEFinition (IDEF)
+3345,Interactive Data Language (IDL)
+3346,J Sharp
+3347,Kotlin
+3348,Lasso (Programming Language)
+3349,Lisp (Programming Language)
+3350,M (Programming Language)
+3351,Markup Languages
+3352,ModeliCA
+3353,Modeling Languages
+3354,Object Pascal
+3355,Ocaml (Programming Language)
+3356,Open Programming Language
+3357,OpenGL Shading Language
+3358,Open-Source Programming Languages
+3359,Pascal (Programming Language)
+3360,PeopleCode
+3361,PL/I (Procedural Programming Language)
+3362,Printer Command Language (PCL)
+3363,Prolog (Programming Language)
+3364,Qt Modeling Language (QML)
+3365,Quartz Composer
+3366,Rust (Programming Language)
+3367,SAS/Base
+3368,SAS/IML
+3369,Scala (Programming Language)
+3370,Scalding
+3371,Scheme (Programming Language)
+3372,Scratch Programming
+3373,Sed (Programming Language)
+3374,Shading Language
+3375,Smalltalk (Programming Language)
+3376,Swift (Programming Language)
+3377,System Programming Language
+3378,UML Tool
+3379,Uniface (Programming Language)
+3380,Unified Modeling Language
+3381,Visual Basic (Programming Language)
+3382,Visual Basic .NET (Programming Language)
+3383,Visual Basic For Applications
+3384,Visual FoxPro
+3385,Visual Objects
+3386,Visual Programming Language (VPL)
+3387,Vyper (Programming Language)
+3388,Web Language
+3389,X++ (Programming Language)
+3390,X86 Assembly Languages
+3391,XBase
+3392,YAML
+3393,Access Query Languages
+3394,Ansi Sql
+3395,Contextual Query Language
+3396,Cypher Query Language
+3397,Data Control Language
+3398,DB2 SQL
+3399,Doctrine Query Language (DQL)
+3400,Embedded SQL
+3401,GraphQL
+3402,Hibernate Query Language
+3403,Hierarchical And Recursive Queries In SQL
+3404,ISQL
+3405,Kusto Query Language
+3406,LINQ To Entities
+3407,LINQ To SQL
+3408,LINQ To XML
+3409,Molecular Query Language
+3410,Native SQL
+3411,Nzsql
+3412,PL/pgSQL
+3413,PL/SQL
+3414,Query Languages
+3415,Salesforce Object Query Language (SOQL)
+3416,Salesforce Object Search Language (SOSL)
+3417,SPARQL Protocol And RDF Query Language (SPARQL)
+3418,SQL (Programming Language)
+3419,Standard SQL
+3420,Stored Functions
+3421,Structured Query Language Procedural Language (SQL PL)
+3422,Structured Query Reporter (SQR)
+3423,Transact-SQL
+3424,U-SQL
+3425,AWS CLI (Command Line Interface)
+3426,Batch Files
+3427,Batch Scripting
+3428,Bourne Shell
+3429,C Shell
+3430,CGI Scripting
+3431,Command Prompt
+3432,Command-Line Interface
+3433,Cron
+3434,Custom Scripting
+3435,DOS Batching
+3436,Drush
+3437,F5 Irules
+3438,GNU Autoconf
+3439,Google Apps Script
+3440,IPython
+3441,Korn Shell
+3442,Kubectl
+3443,Linux Commands
+3444,Linux Scripting
+3445,PowerCLI
+3446,Remote Scripting
+3447,Scripting
+3448,Secure Shell Protocol (SSH)
+3449,Shell Commands
+3450,Shell Script
+3451,Systemtap
+3452,TC Shell (Unix)
+3453,Unix Commands
+3454,Unix Shell
+3455,Wget
+3456,Windows PowerShell
+3457,Windows Script Host
+3458,Wsadmin
+3459,Z Shell
+3460,ActionScript
+3461,ActivePerl
+3462,AMPScript
+3463,AppleScript (Scripting Language)
+3464,AutoLISP
+3465,AWK (Programming Language)
+3466,Bash (Scripting Language)
+3467,BeanShell
+3468,Behat
+3469,Cadence SKILL
+3470,CakePHP
+3471,CFScript
+3472,COBOL (Programming Language)
+3473,CodeIgniter
+3474,ColdFusion Markup Language
+3475,Command Language
+3476,DIGITAL Command Language
+3477,ECMAScript (C Programming Language Family)
+3478,Formula Language
+3479,Gherkin (Scripting Language)
+3480,Groovy (Programming Language)
+3481,JavaScript (Programming Language)
+3482,JRuby
+3483,Julia (Programming Language)
+3484,KiXtart
+3485,Kohana
+3486,Laravel
+3487,Linden Scripting Language
+3488,LotusScript
+3489,Lua (Scripting Language)
+3490,MIVA Script
+3491,Perl (Programming Language)
+3492,Phalcon (PHP Framework)
+3493,PHP (Scripting Language)
+3494,PHP 7
+3495,PHP Frameworks
+3496,phpBB
+3497,PostScript
+3498,Python (Programming Language)
+3499,R (Programming Language)
+3500,Rexx (Programming Language)
+3501,Ruby (Programming Language)
+3502,SASS
+3503,Smarty
+3504,Symfony
+3505,Tandem Advanced Command Language (TACL)
+3506,Tcl (Programming Language)
+3507,TypeScript
+3508,VBScript (Visual Basic Scripting Edition)
+3509,Winbatch
+3510,Xdebug
+3511,Yii PHP Framework
+3512,Zend Framework
+3513,Bing Search
+3514,Coveo
+3515,Database Search Engine
+3516,DuckDuckGo (Internet Search Engines)
+3517,Elasticsearch
+3518,Faceted Search
+3519,Organic Search
+3520,Query Understanding
+3521,Search Engine Results Page
+3522,Search Technologies
+3523,Sphinx Search Engine
+3524,Web Browser Engine
+3525,Web Search Query
+3526,Yandex
+3527,Akamai
+3528,Apache HTTP Server
+3529,Apache Tomcat
+3530,Apache TomEE
+3531,Apache Traffic Server
+3532,Apache Zookeeper
+3533,Apollo Server
+3534,AppFabric Caching
+3535,Apple Network Servers
+3536,Application Servers
+3537,Azure Content Delivery Network (Azure CDN)
+3538,BIND (DNS Software)
+3539,Blade Servers
+3540,Cisco Unified Computing Systems
+3541,Communications Server
+3542,Content Delivery Networks
+3543,Database Servers
+3544,Dell PowerEdge
+3545,Dell Servers
+3546,Dovecot
+3547,Easerver
+3548,Embedded HTTP Server
+3549,File Servers
+3550,FME Server
+3551,GeoServer
+3552,Glassfish Application Servers
+3553,Go Server
+3554,HAProxy
+3555,High Availability Clusters
+3556,HP BladeSystems
+3557,HP Proliant
+3558,HP Servers
+3559,IBM Blade
+3560,IBM Forms Server
+3561,IBM High Availability Cluster Multiprocessing
+3562,IBM HTTP Servers
+3563,IBM LAN Servers
+3564,IBM Servers
+3565,IBM System P
+3566,IBM WAS
+3567,Image Server
+3568,Information Servers
+3569,Intel Based Servers
+3570,Internet Information Services
+3571,Internet Server Application Programming Interface
+3572,Kamailio SIP Server
+3573,Lenovo Servers
+3574,LigHTTPD
+3575,Linux Servers
+3576,Linux Virtual Server
+3577,Message Transfer Agent
+3578,Microsoft Backoffice Servers
+3579,Microsoft Cluster Server
+3580,Microsoft Commerce Servers
+3581,Microsoft Exchange Servers
+3582,Microsoft Servers
+3583,Microsoft Site Servers
+3584,Microsoft Transaction Servers
+3585,Multi-Processing Modules
+3586,Netty
+3587,Network Access Servers
+3588,Nginx
+3589,Open Enterprise Server
+3590,Open Source Development
+3591,Oracle Exalogic
+3592,Oracle iPlanet Web Server
+3593,Oracle VM Server For SPARC
+3594,Oracle WebLogic Server
+3595,Postfix
+3596,Print Servers
+3597,ProFTPD
+3598,Quantum Scalar Servers
+3599,Remote Server Management
+3600,SAP NetWeaver Application Servers
+3601,SAP Sybase SQL
+3602,SAS Metadata Servers
+3603,Server Administration
+3604,Server Clustering
+3605,Server Consolidation
+3606,Server Farms
+3607,Server-Side
+3608,Serverspec
+3609,Squid (Proxy Server)
+3610,Stand-Alone Server
+3611,State Server
+3612,Sun ONE
+3613,Sun Servers
+3614,SUSE Linux Enterprise Servers
+3615,Tcserver
+3616,Terminal Server
+3617,Unified Computing
+3618,Veritas Cluster Servers
+3619,Vsftpd
+3620,Web Accelerator
+3621,Web Container
+3622,Web Server Gateway Interface
+3623,Web Servers
+3624,Webseal
+3625,WildFly (JBoss AS)
+3626,Windows Small Business Servers
+3627,Ability To Meet Deadlines
+3628,Accountability
+3629,Achievement Oriented
+3630,Active Learning
+3631,Active Listening
+3632,Adaptability
+3633,Administrative Skills
+3634,Agenda (Meeting)
+3635,Analytical Skills
+3636,Arabic Language
+3637,Brainstorming
+3638,Business Administration
+3639,Business Operations
+3640,Business Proposals
+3641,Checklists
+3642,Cleanliness
+3643,Collaboration
+3644,Communications
+3645,Complex Problem Solving
+3646,Construction
+3647,Consulting
+3648,Cooperation
+3649,Coordinating
+3650,Creative Problem-Solving
+3651,Creative Thinking
+3652,Creativity
+3653,Critical Thinking
+3654,Customer Service
+3655,Data Entry
+3656,Decision Making
+3657,Detail Oriented
+3658,Diplomacy
+3659,Editing
+3660,Energetic
+3661,English Language
+3662,Enthusiasm
+3663,Evaluate Information
+3664,Goal Oriented
+3665,Goal Setting
+3666,Governance
+3667,Grammar
+3668,Imagination
+3669,Influencing Skills
+3670,Information Gathering
+3671,Ingenuity
+3672,Innovation
+3673,Integration
+3674,Interpersonal Communications
+3675,Leadership
+3676,Leadership Development
+3677,Learning Strategies
+3678,Listening Skills
+3679,Management
+3680,Mentorship
+3681,Multitasking
+3682,Non-Verbal Communication
+3683,Numbers (Spreadsheet)
+3684,Operations
+3685,Organizational Skills
+3686,Patience
+3687,People Management
+3688,Persistence
+3689,Personal Integrity
+3690,Planning
+3691,Positive Mental Attitude
+3692,Positivity
+3693,Presentations
+3694,Prioritization
+3695,Proactivity
+3696,Problem Solving
+3697,Professionalism
+3698,Program Management
+3699,Punctuality
+3700,Quality Assurance
+3701,Quick Learning
+3702,Reading Comprehension
+3703,Relationship Management
+3704,Reliability
+3705,Research
+3706,Reservations
+3707,Resilience
+3708,Sales
+3709,Scheduling
+3710,Self Confident
+3711,Self Starter
+3712,Self-Motivation
+3713,Service-Orientation
+3714,Sincerity
+3715,Social Media
+3716,Social Skills
+3717,Solutions Focused
+3718,Sorting
+3719,Spreadsheets
+3720,Strategic Thinking
+3721,Supervision
+3722,Tactfulness
+3723,Teaching
+3724,Team Building
+3725,Team Effectiveness
+3726,Team Leadership
+3727,Team Management
+3728,Team Motivation
+3729,Team Performance Management
+3730,Teamwork
+3731,Time Management
+3732,Timelines
+3733,Training And Development
+3734,Troubleshooting (Problem Solving)
+3735,Trustworthiness
+3736,Verbal Communication Skills
+3737,Virtual Teams
+3738,Visionary
+3739,Willingness To Learn
+3740,Working Quickly
+3741,Writing
+3742,Written Communication
+3743,Written English
+3744,.NET Development
+3745,Abstract Factory Pattern
+3746,Acceptance Test-Driven Development
+3747,Access Modifiers
+3748,Anti-Patterns
+3749,App Data
+3750,Application Client
+3751,Application Delivery Network
+3752,Application Dependency
+3753,Application Deployment
+3754,Application Design
+3755,Application Development
+3756,Application Development Languages
+3757,Application Environments
+3758,Application Foundation Classes
+3759,Application Frameworks
+3760,Application Lifecycle Management
+3761,Application Notes
+3762,Application Packaging
+3763,Application Planning
+3764,Application Remediation
+3765,Application Retirement
+3766,Application Settings
+3767,Application Streaming
+3768,Applications Architecture
+3769,Application-Specific Information
+3770,Architectural Development
+3771,Architectural Patterns
+3772,Aspect-Oriented Programming
+3773,Async Await Pattern
+3774,Authoring Software
+3775,Automatic Updates
+3776,Back End (Software Engineering)
+3777,Background Application
+3778,Background Task
+3779,Backwards Compatibility
+3780,Breakpoint
+3781,Build Events
+3782,Build Process
+3783,Build Time
+3784,Character Encoding
+3785,CI/CD
+3786,Class Diagram
+3787,Class Hierarchy
+3788,Closed Loop
+3789,Cloud-Native Computing Foundation (CNCF) Standards
+3790,Cluster Development
+3791,Cluster Mode
+3792,Code Comments
+3793,Code Complexity
+3794,Code Conversion
+3795,Code Formatting
+3796,Code Generation
+3797,Code Migration
+3798,Code Refactoring
+3799,Code Reuse
+3800,Code Sharing
+3801,Code Snippets
+3802,Code Structure
+3803,Codebase
+3804,Comet Programming
+3805,Command Pattern
+3806,Command-Query Responsibility Segregation (Software Development)
+3807,Commercial Off-the-Shelf
+3808,Commercial Software
+3809,Common Technical Document
+3810,Compact Framework
+3811,Compiler Construction
+3812,Compiler Design
+3813,Compiler Development
+3814,Compilers
+3815,Component-Oriented Development Software
+3816,Composite Application
+3817,Computation Tree Logic
+3818,Computer-Aided Software Engineering
+3819,Concurrency Controls
+3820,Concurrency Pattern
+3821,Connection Pooling
+3822,Console Applications
+3823,Container-Managed Persistence
+3824,Continuous Delivery
+3825,Continuous Deployment
+3826,Continuous Integration
+3827,Cross Compiling
+3828,Cross-Platform Applications
+3829,Custom Attributes
+3830,Custom Backend
+3831,Custom Component
+3832,Custom Function
+3833,Custom Software
+3834,Custom Tag
+3835,Custom Widgets
+3836,Cyclomatic Complexity
+3837,Data Access Object (DAO) Patterns
+3838,Data Binding
+3839,Data Hiding (Encapsulation)
+3840,Data Layers
+3841,Data Transfer Object
+3842,Database First
+3843,Dependency Analysis
+3844,Dependency Injection
+3845,Deployment Project
+3846,Dev Testing
+3847,Development Environment
+3848,Development Support
+3849,Development Testing
+3850,Device Compatibility
+3851,Device Drivers
+3852,DevOps
+3853,Dialog Programming
+3854,Digital Architecture
+3855,Distributed Development
+3856,Document Composition
+3857,Documentation Based Coding
+3858,Domain Driven Design
+3859,Domain Model
+3860,Dynamic Loading
+3861,Dynamic Programming
+3862,Environment Variables
+3863,Equivalence Partitioning
+3864,Event Triggers
+3865,Event-Driven Programming
+3866,Exception Handling
+3867,Executable
+3868,Experimental Software Engineering
+3869,Extension Methods
+3870,Forward Compatibility
+3871,Framework Design
+3872,Front End (Software Engineering)
+3873,Front End Design
+3874,Front-End Engineering
+3875,Full Stack Development
+3876,Full-Text Search
+3877,Function Module
+3878,Functional Design
+3879,Functional Interface
+3880,Functional Programming
+3881,Functional Specification
+3882,Game Programming
+3883,Game Testing
+3884,Garbage Collection (Computer Science)
+3885,General Graphics Interface
+3886,Generic Programming
+3887,Global Scope
+3888,Government Off-The-Shelf
+3889,Hand Coding
+3890,Hash Functions
+3891,Heap Size
+3892,High-Level Architecture
+3893,Hotfix
+3894,Http Headers
+3895,Immutability
+3896,Incremental Build
+3897,Indexer
+3898,Information Model
+3899,Instantiation
+3900,Instruction Scheduling
+3901,Interactive Programming
+3902,Inversion Of Control
+3903,Jamstack
+3904,Java Full Stack Development
+3905,Kernel Mode
+3906,Layered Systems
+3907,Lazy Loading
+3908,Linux On Embedded Systems
+3909,Maintainability
+3910,Maintaining Code
+3911,Managed Code
+3912,Memory Corruption
+3913,Memory Leaks
+3914,Message Format
+3915,Message Type
+3916,Messaging Pattern
+3917,Microarchitecture
+3918,Microservices
+3919,Microservices Development
+3920,Microsoft Security Development Lifecycle
+3921,Microsoft Solutions Framework
+3922,Mixins
+3923,Model View Controller
+3924,Model View Presenter
+3925,Model View ViewModel
+3926,Model-Driven Development
+3927,Model-Driven Software Engineering
+3928,Modularity
+3929,Monoliths
+3930,Multiple Activation Key
+3931,Multitier Architecture
+3932,Naming Conventions
+3933,Native Code
+3934,Natural Programming
+3935,Nested Loops
+3936,Nested Queries
+3937,Network Programming
+3938,Neutral Build
+3939,Nightly Build
+3940,Notification Services
+3941,Notification Systems
+3942,Object Model
+3943,Object Oriented Modeling And Design
+3944,Object Oriented Programming And Systems
+3945,Object Oriented Programming Language
+3946,Object-Modeling Technique
+3947,Object-Oriented Analysis And Design
+3948,Object-Oriented Design
+3949,Object-Oriented Programming (OOP)
+3950,Observer Patterns
+3951,On Prem
+3952,Open Database Connectivity
+3953,Open Source Development
+3954,Open Source Technology
+3955,Open Standards
+3956,Open Systems Architecture
+3957,OpenACC
+3958,Open-Source Software
+3959,OpenSUSE
+3960,Operating System Development
+3961,Optimal Design
+3962,Oracle Development
+3963,Oracle Objects
+3964,Package Development Process
+3965,Performance Engineering
+3966,PHP Development
+3967,Platform Agnostic
+3968,POSIX (IEEE Standards)
+3969,Post Build
+3970,Priority Queue
+3971,Procedural Programming
+3972,Process Driven Development
+3973,Process Integration
+3974,Product Family Engineering
+3975,Production Code
+3976,Profiling (Computer Programming)
+3977,Program Flow
+3978,Program Lifecycle Phase
+3979,Program Optimization
+3980,Programming Environments
+3981,Programming Language Design
+3982,Progressive Web Apps
+3983,Project Architecture
+3984,Proof Of Concept (POC) Development
+3985,Proprietary Software
+3986,Protocol Buffers
+3987,Pull/Merge Requests
+3988,Recovery Testing
+3989,Reference Application
+3990,Reference Architecture
+3991,Reference Implementation
+3992,Regular Functions
+3993,Relation Extraction
+3994,Release Builds
+3995,Release Engineering
+3996,Repository Design
+3997,Repository Pattern
+3998,Requirements Traceability
+3999,Resource Files
+4000,Rewrite Rules
+4001,Runtime Systems
+4002,Scalability
+4003,Scalability Design
+4004,Secure Application Development
+4005,Secure Programming
+4006,Sequence Diagram
+4007,Service Development
+4008,Service Layer
+4009,Service Locator Patterns
+4010,Service Pack
+4011,Service-Oriented Architecture
+4012,Service-Oriented Modeling
+4013,Shared Libraries
+4014,Shared Objects
+4015,Software Architecture
+4016,Software Coding
+4017,Software Construction
+4018,Software Deployment
+4019,Software Design
+4020,Software Design Documents
+4021,Software Design Patterns
+4022,Software Development
+4023,Software Development Life Cycle
+4024,Software Development Methodologies
+4025,Software Documentation
+4026,Software Engineering
+4027,Software Engineering 2004
+4028,Software Engineering Process
+4029,Software Factory
+4030,Software Features
+4031,Software Localization
+4032,Software Modernization
+4033,Software Modules
+4034,Software Prototyping
+4035,Software Release Life Cycle
+4036,Software Requirements Analysis
+4037,Software Requirements Specification
+4038,Software Suite
+4039,Solid Principles
+4040,Solution Deployment Descriptor
+4041,Solution Design
+4042,Source Codes
+4043,Splunk Development
+4044,Staging Site
+4045,Static Files
+4046,Statistical Programming
+4047,Structured Programming
+4048,Structured Text
+4049,Stubbing
+4050,Target Platform
+4051,Technical Debt
+4052,Technical Solution Design
+4053,Templating
+4054,Testability
+4055,Text Parsing
+4056,Thread Pool Pattern
+4057,Thread Safety
+4058,Threading Models
+4059,Time Complexity
+4060,Unit Test-Driven Development
+4061,User Defined Functions
+4062,User Requirements Documents
+4063,Virtual Function
+4064,Visual Modeling
+4065,V-Model
+4066,Volume License Key
+4067,Web Console
+4068,Windowing Systems
+4069,Windows Software Development
+4070,Yocto Project
+4071,ActiveReports
+4072,Advanced Installer
+4073,Advanced Rest Client
+4074,Agility
+4075,Akka (Toolkit)
+4076,Alexa Skills Kit
+4077,ALM Octane
+4078,Altera Quartus
+4079,Amazon Elastic Container Registry
+4080,Amazon Managed Streaming for Apache Kafka (Amazon MSK)
+4081,Angular CLI
+4082,Angular Components
+4083,Angular Material
+4084,Angular Ui
+4085,Apache Beam
+4086,Apache Camel
+4087,Apache CXF
+4088,Apache Felix
+4089,Apache IBATIS
+4090,Apache Karaf
+4091,Apache Lucene
+4092,Apache POI
+4093,Apache Pulsar
+4094,Apache Thrift
+4095,Apache TinkerPop
+4096,Apache Velocity
+4097,Apollo GraphQL
+4098,Apple Cocoa
+4099,Application Lifecycle Management (ALM) Software
+4100,Artifactory
+4101,Aspose.words
+4102,Assembla
+4103,Atlassian Crucible
+4104,Atlassian OpsGenie
+4105,Attribute Change Package
+4106,Auditd
+4107,Aura Framework
+4108,Autofac
+4109,Automapper
+4110,AWS Amplify
+4111,AWS CodeDeploy
+4112,AWS CodePipeline
+4113,AWS Elastic Beanstalk
+4114,AWS SDK
+4115,Axway
+4116,Azure DevOps
+4117,Azure Pipelines
+4118,Boto3
+4119,Bubble.io
+4120,Bundler
+4121,BusyBox
+4122,CA Gen
+4123,CA/EZTEST
+4124,Castle Windsor
+4125,CA-Telon
+4126,Chai (Software)
+4127,ChangeMan (Software)
+4128,Checkstyle
+4129,Ci Server
+4130,Circleci
+4131,Code Editor
+4132,Codebeamer
+4133,Codeship
+4134,Codesmith
+4135,ComponentOne
+4136,cURL
+4137,CVSNT
+4138,Cygwin
+4139,Dapper ORM
+4140,DbUnit
+4141,Developer Console
+4142,DevExpress
+4143,Devtools
+4144,Disassembler
+4145,DMS Software Reengineering Toolkits
+4146,Docker (Software)
+4147,Docker Compose
+4148,Docker Container
+4149,Docker Engine
+4150,Docker Hub
+4151,Dockerfile
+4152,Document Object Model
+4153,Doxygen
+4154,Eclipse Modeling Framework
+4155,Edge Development Options
+4156,Emacs
+4157,Entity Framework (EF) Core
+4158,Equinox (OSGi)
+4159,Expo (Application Development Framework)
+4160,Fastify
+4161,Fbx
+4162,Flexera AdminStudio
+4163,Flux (React.js)
+4164,Form Designer
+4165,Ftrace
+4166,FxCop
+4167,Gearman
+4168,Gmock
+4169,GNU Compiler Collection
+4170,GNU Toolchain
+4171,Google Code
+4172,GoToAssist
+4173,Gprof
+4174,Grep
+4175,Gridgain
+4176,Gunicorn
+4177,Hazelcast
+4178,Hiera
+4179,HTML Document Object Models
+4180,HTML5shiv
+4181,IBM Rational ClearCase
+4182,IBM Rational Clearquest
+4183,IBM Rational Software
+4184,IBM Rational Software Architect
+4185,IBM Rational Unified Process
+4186,IBM Software
+4187,IBM System Object Models
+4188,IBM Utilities
+4189,ImageMagick
+4190,Ioc Container
+4191,Istio
+4192,IText (Free PDF Software)
+4193,J2C - Java To C++ Converter
+4194,Java Compilers
+4195,Java Foundation Classes
+4196,Jbehave
+4197,JBoss Developer Studio
+4198,Jenkins 2
+4199,Jenkinsfile
+4200,JIRA Studio
+4201,JSON
+4202,JSON Web Token (JWT)
+4203,JSON With Padding (JSONP)
+4204,K2 Blackpearl
+4205,Lauterbach
+4206,Lex (Software)
+4207,Link Editors
+4208,Low Level Virtual Machine (Free Compilers And Interpreters)
+4209,Lucidworks
+4210,Luigi (Python Package)
+4211,Managed Extensibility Framework (.NET Framework)
+4212,Micro Focus Application Lifecycle Management (ALM)
+4213,Micronaut Framework
+4214,Microsoft Expression Studio
+4215,Microsoft Sysprep
+4216,MicroStrategy Software Development Kit
+4217,MITRE ATT&CK Framework
+4218,Mod Rewrite
+4219,mod_perl
+4220,MSC Software
+4221,NCover
+4222,NDepend
+4223,Netcat
+4224,Netscaler
+4225,NgRx (Framework)
+4226,NgRx Store
+4227,Ninject
+4228,Node Package Manager
+4229,NuGet
+4230,Numba
+4231,Octave
+4232,Odp.net
+4233,OllyDBg
+4234,Omnis Studio
+4235,Open Platform
+4236,Open Policy Agent
+4237,Opensearch
+4238,Optimizing Compilers
+4239,Oracle Adf
+4240,Oracle Apex
+4241,Oracle Application Development Framework
+4242,Oracle Application Express
+4243,Oracle Application Frameworks (OAF)
+4244,Oracle Designer
+4245,Oracle Developer Suite
+4246,Oracle SOA Suite
+4247,Orbix
+4248,OutSystems
+4249,Pacbase
+4250,Parallel Patterns Library
+4251,Peoplesoft Application Designer
+4252,Phabricator
+4253,Pick Basic (Software)
+4254,Pip (Software)
+4255,Polyspace
+4256,Portlet
+4257,Primeng
+4258,Programming Tools
+4259,PyCharm
+4260,Pylint
+4261,Pypi
+4262,PyQt
+4263,Python Tools For Visual Studio
+4264,Qiskit
+4265,Qt (Software)
+4266,Radare2 (Reverse Engineering Software)
+4267,Rational Rhapsody
+4268,Rational Rose XDE
+4269,Red Hat Enterprise Linux
+4270,Report Generators
+4271,Resque
+4272,REST Assured
+4273,Rhel6
+4274,RubyGems
+4275,RubyMine
+4276,SAP Connector
+4277,SAP NetWeaver Portals
+4278,SAP Solution Manager
+4279,ServiceStack
+4280,Sidekiq
+4281,Siebel Workflow
+4282,Silk Performer
+4283,Sinatra (Software)
+4284,Software Updater
+4285,Sonatype
+4286,Spark Framework
+4287,Spatial Relations
+4288,Sphinx Documentation Generator
+4289,Spiral Model
+4290,Spring AOP
+4291,Spring Batch
+4292,Spring Boot
+4293,Spring Data
+4294,Spring Framework
+4295,Spring MVC
+4296,Spring.net
+4297,SpriteKit
+4298,Stack Overflow
+4299,Statsd
+4300,Structuremap
+4301,StyleCop
+4302,Sublime Text Editor
+4303,Svelte (Software)
+4304,Svn Repository
+4305,Sybase IQ
+4306,Sympy
+4307,Syncfusion
+4308,System Generator
+4309,TargetLink
+4310,Team Foundation Server
+4311,TeamForge
+4312,Telerik
+4313,Telerik MVC
+4314,Telerik Reporting
+4315,Terracotta (Software)
+4316,Terraform
+4317,Test Command
+4318,Tivoli Application Dependency Discovery Manager (TADDM)
+4319,Tk (Software)
+4320,Toolchain
+4321,Toolkits
+4322,Traefik
+4323,Transpiler
+4324,Tslint
+4325,Typesafe
+4326,Udeploy
+4327,Unix Tools
+4328,Uwsgi
+4329,Vagrant
+4330,Valgrind
+4331,Vbulletin
+4332,Very Long Instruction Word
+4333,ViewModel
+4334,Vim (Text Editor)
+4335,Visual Paradigm For UML
+4336,Visualforce
+4337,VisualVM
+4338,Vnext
+4339,Vuetify
+4340,War Files
+4341,Web AppBuilder
+4342,WebAssembly
+4343,WebdriverIO
+4344,WebWorks (Documentation System)
+4345,Widget Toolkit
+4346,Wise Package Studio
+4347,WYSIWYG
+4348,Xalan
+4349,Xcodebuild
+4350,XMLSpy
+4351,Yacc
+4352,Abend-AID
+4353,Ad Hoc Testing
+4354,Apache JMeter
+4355,Apachebench
+4356,Appdynamics
+4357,Application Performance Management
+4358,Azure Application Insights
+4359,Back End Testing
+4360,Binary Ninja (Reverse Engineering Software)
+4361,Blackbox
+4362,Black-Box Testing
+4363,Blazemeter
+4364,Boundary Testing
+4365,Boundary-Value Analysis
+4366,Bug Tracking And Management
+4367,Bugzilla
+4368,CA Application Performance Management
+4369,CA Service Virtualization
+4370,CA Test Data Manager
+4371,CA Wily Introscope
+4372,Chaos Engineering
+4373,Chaos Monkey (Software)
+4374,Client Side Validation
+4375,Code Analysis
+4376,Code Coverage
+4377,Code Inspection
+4378,Code Review
+4379,Code Testing
+4380,Coverity
+4381,Crash Reports
+4382,CUnit (Unit Testing Framework)
+4383,Data Display Debuggers
+4384,Data-Centric Testing
+4385,Data-Driven Testing
+4386,Debugging
+4387,Defect Life Cycle
+4388,Defect Tracking
+4389,DevTrack
+4390,Digital Assurance
+4391,Distributed Testing
+4392,Dynamic Program Analysis
+4393,Easymock
+4394,Eslint
+4395,Exploratory Testing
+4396,Feature Interaction Problem
+4397,Fiddler (Software)
+4398,FindBugs
+4399,Functional Testing
+4400,Gcov
+4401,GNU Debuggers
+4402,Googletest
+4403,Gray Box Testing
+4404,GUI Testing Tools
+4405,Heap Dump
+4406,HP Loadrunner
+4407,HP Performance Center
+4408,HP SiteScope
+4409,Http Unit
+4410,IMacros
+4411,Integration Testing
+4412,Iometer
+4413,Jprofiler
+4414,Junit4
+4415,Kernel Debuggers
+4416,KGDB
+4417,Klocwork
+4418,Labwindows/Cvi
+4419,Load Testing
+4420,LoadUI
+4421,Mbunit
+4422,Micro Focus ALM Quality Center
+4423,Microsoft Test Manager
+4424,Microsoft Visual Studio Debuggers
+4425,Migration Testing
+4426,Minitest
+4427,Mobile Application Testing
+4428,Mobile Native Application Testing
+4429,Mocha (JavaScript Framework)
+4430,Mockito
+4431,MOQ (Software)
+4432,MSTest
+4433,Network Simulation
+4434,New Relic (SaaS)
+4435,Nightwatch.js
+4436,Nmock (.NET Library)
+4437,Non-Functional Testing
+4438,Nunit
+4439,Ocmock
+4440,OCUnit
+4441,Operational Acceptance Testing
+4442,Parasoft Virtualize
+4443,Performance Profiling
+4444,PHPUnit
+4445,Py.test
+4446,Pyunit
+4447,qTest
+4448,Regression Testing
+4449,Remote Debugging
+4450,Risk-Based Testing
+4451,Robustness Testing
+4452,Rspec
+4453,Sanity Testing
+4454,Scalability Testing
+4455,Scenario Testing
+4456,Script Debuggers
+4457,SeeTest
+4458,Shift-Left Testing
+4459,Site Reliability Engineering
+4460,Smoke Testing
+4461,SOA (Service-Oriented Architecture) Testing
+4462,SoapUI
+4463,Software Analysis
+4464,Software Maintenance
+4465,Software Metrics
+4466,Software Performance Testing
+4467,Software Quality (SQA/SQC)
+4468,Software Quality Management
+4469,Software Technical Review
+4470,Software Testing
+4471,Software Validation
+4472,SonarQube
+4473,Spock (Testing Framework)
+4474,Static Program Analysis
+4475,Strace
+4476,Test Case
+4477,Test Data
+4478,Test Data Generation
+4479,Test Environment Management
+4480,Test Execution Engine
+4481,Test First
+4482,Test Management Tools
+4483,Test Planning
+4484,Test Script
+4485,Test Suite
+4486,TestLink
+4487,Testrail
+4488,TestTrack
+4489,Traceability Matrix
+4490,Unit Testing
+4491,Usability Testing
+4492,User Acceptance Testing (UAT)
+4493,User Interface Testing
+4494,VeraCode
+4495,Vmstat
+4496,Volume Testing
+4497,Web Testing
+4498,Webtest
+4499,White-Box Testing
+4500,Wiremock
+4501,Xctest
+4502,Xunit
+4503,Xunit.net
+4504,3rd Party Systems Integration
+4505,Activity Diagram
+4506,Architecture Analysis
+4507,Architecture Framework
+4508,BRFplus
+4509,Business Information System
+4510,Business Rule Management Systems
+4511,Business Rules Engines
+4512,Command Controls
+4513,Concept Image And Concept Definition
+4514,Concept Of Operations
+4515,Conceptual Model
+4516,Configuration Design
+4517,Continuous Availability
+4518,Customer Requirements Analysis
+4519,Data Facility Data Set Services
+4520,Data System
+4521,DevSecOps
+4522,DirSync Pro
+4523,DoDAF
+4524,Dynamic Object-Oriented Requirements System (DOORS)
+4525,Endpoint Engineering
+4526,Failover Testing
+4527,Functional Requirement
+4528,Graphite (Software)
+4529,Hardware Acceleration
+4530,Hardware Compatibility (Software Requirements)
+4531,High Availability Design
+4532,Hybrid Systems
+4533,IBM Hardware Management Console
+4534,ICAM DEFinition For Function Modeling (IDEF0)
+4535,Information Infrastructure
+4536,Information Structure
+4537,Information Systems Architecture
+4538,Interface Control Document
+4539,Interoperability
+4540,Interrupt Handling
+4541,ISO/IEC 15504
+4542,Joint Application Design (JAD)
+4543,Lightweight Directory Access Protocols
+4544,Linux Packages
+4545,Logic Systems
+4546,Management Information Base
+4547,Micro Focus
+4548,Microcode
+4549,Microsoft Sharepoint Designer
+4550,Multi-Core Programming
+4551,Multi-Core SMP
+4552,Multi-Core Software
+4553,Network Security Design
+4554,Operability
+4555,Operations Administration Maintenance And Provisioning (OAMP)
+4556,Performance Systems Analysis
+4557,Performance Tuning
+4558,Production Systems Engineering
+4559,Reference Design
+4560,Remote Access Service
+4561,Remote Access Systems
+4562,Requirements Analysis
+4563,Requirements Elicitation
+4564,Salesforce Development
+4565,SAP Implementation
+4566,SAP Technical Architecture
+4567,SAP Technology Consulting
+4568,Scenario Design
+4569,Service Component Architecture
+4570,SharePoint Development
+4571,Structured Analysis
+4572,Structured Systems Analysis And Design Methods
+4573,System Deployment
+4574,System Dynamics
+4575,System Implementation
+4576,System Integration Testing
+4577,System Integrity
+4578,System Lifecycle
+4579,System Modification Program/Extended (SMP/E)
+4580,System Procedures
+4581,System Programming
+4582,System Requirements
+4583,System Requirements Specification
+4584,System Status
+4585,System Testing
+4586,Systems Analysis
+4587,Systems Architecture
+4588,Systems Design
+4589,Systems Development
+4590,Systems Development Life Cycle
+4591,Systems Engineering
+4592,Systems Integration
+4593,Systems Modeling
+4594,Systems Theories
+4595,TAFIM
+4596,Technology Alignment
+4597,Technology Integration
+4598,Technology Readiness Level
+4599,Tree Diagrams
+4600,Utility Software
+4601,Viable System Model
+4602,Acceptable Use Policy
+4603,Active Directory
+4604,Active Directory Federation Services
+4605,Active Directory Lightweight Directory Services
+4606,Active Directory Migration Tool
+4607,Active Directory Service Interfaces
+4608,Admin Tools
+4609,Apache Administration
+4610,Apache Ambari
+4611,AppSense
+4612,Automounter (Sun Microsystems Software)
+4613,BigFix (Endpoint Management Software)
+4614,BMC Patrol
+4615,Cluster Ready Services
+4616,Control Communications
+4617,Control Communications
+4618,CPU Time
+4619,Desktop Management Interface
+4620,Directory Permissions
+4621,Directory Service
+4622,Domain Name System (DNS) Servers
+4623,Elevated Privileges
+4624,Endpoint Management
+4625,Failover
+4626,FCAPS
+4627,File System Permissions
+4628,Flexible Single Master Operation (FSMO)
+4629,Ganglia (Software)
+4630,Group Policy
+4631,Group Policy Management Console -(GPMC)
+4632,HP Systems Insight Manager
+4633,HP Web Jetadmin
+4634,Hyperic
+4635,IBM Director
+4636,Icinga2
+4637,IIS Manager
+4638,ImageX (Imaging Software)
+4639,Iptables
+4640,LAN Administration
+4641,LDAP Admin
+4642,Limited User Administration
+4643,Linux Administration
+4644,McAfee Epolicy Orchestrator
+4645,MCollective
+4646,Microsoft Management Console
+4647,Microsoft Operations Manager
+4648,Microsoft Windows Server Administration
+4649,MIMIX Availability (Software)
+4650,Monit
+4651,Multipath I/O
+4652,Munin (Software)
+4653,Nagios
+4654,Netstat
+4655,Network Administration
+4656,Network Analysis Module
+4657,Network Information Services
+4658,Network Management
+4659,NIS+
+4660,Nmon
+4661,Novell ZENworks
+4662,Opscenter
+4663,Oracle Virtual Directory
+4664,Oracle Waveset
+4665,Patch Management
+4666,Perfmon
+4667,Preboot Execution Environment
+4668,Process Explorer
+4669,Process Migration
+4670,Prometheus (Software)
+4671,Quest KACE
+4672,Red Hat Satellite
+4673,Remote Administration
+4674,Remote Administration Software
+4675,Remote Monitoring
+4676,Remote Network MONitoring (RMON)
+4677,Role Hierarchy
+4678,Runbook
+4679,SAP Administration
+4680,SAP Basis
+4681,SAP Infrastructure
+4682,SAS Management Console
+4683,Security Administration
+4684,Server Migration
+4685,Service Accounts
+4686,SharePoint Administration
+4687,SolarWinds
+4688,Stsadm
+4689,Sudo
+4690,Switchover
+4691,System Administration
+4692,System Center Operations Management
+4693,System Monitoring
+4694,System Recovery
+4695,Tanium (Endpoint Management Software)
+4696,TCP/IP Administration
+4697,TeamQuest
+4698,Unified Endpoint Management
+4699,Uptime
+4700,User Accounts
+4701,User Registration
+4702,User Roles
+4703,Veeam
+4704,Veritas Software
+4705,Web Administration
+4706,Webmin
+4707,Windows Domain
+4708,Windows Performance Monitor
+4709,Windows Server Update Services (WSUS)
+4710,Windows System Administration
+4711,Workgroup Manager
+4712,Zenoss
+4713,Apple Remote Desktop
+4714,Apple Software Update
+4715,BMC Remedy Action Request System
+4716,Bomgar
+4717,Browser Support
+4718,Computer Building
+4719,Computer Performance
+4720,Computer Repair
+4721,Computer Upgrades
+4722,Context Sensitive Help
+4723,DameWare
+4724,Deployment Support
+4725,Deskside Support
+4726,Desktop Sharing
+4727,Desktop Support
+4728,Device Setup
+4729,Disk Cloning
+4730,Drive Mapping
+4731,End-User Training And Support
+4732,Error Messages
+4733,GoToMyPC
+4734,Hardware Support
+4735,Hardware Troubleshooting
+4736,Help Desk Support
+4737,Help Files
+4738,Help System
+4739,Information Technology & Computing Services
+4740,Issue Tracking Systems
+4741,Knowledge-Centered Service
+4742,Laptop Troubleshooting
+4743,Linux Support
+4744,Mac/Apple Support
+4745,Microsoft Desktop Optimization Pack
+4746,Microsoft Family Safety
+4747,Microsoft Terminal Server
+4748,Mobile Device Troubleshooting
+4749,Network Service Assurance
+4750,Network Support
+4751,Office 365 Admin Center
+4752,PC Configuration
+4753,PC Migration
+4754,PC Performance Tuning
+4755,PcAnywhere
+4756,Remote Desktop Services
+4757,Remote Desktop Software
+4758,Remote Installation
+4759,Remote Service Software
+4760,Remote Technical Support
+4761,Remote Troubleshooting
+4762,RPR Problem Diagnosis
+4763,Scanner Troubleshooting
+4764,Server Supported Gaming
+4765,Service Assurance
+4766,Service Request Management
+4767,Software Installation
+4768,Support Engineering
+4769,System Level Troubleshooting
+4770,System Preferences
+4771,System Support
+4772,TeamViewer
+4773,Technical Assistance
+4774,Technical Services
+4775,Technical Support
+4776,Tier 1 Technical Support
+4777,Tier 2 Technical Support
+4778,Tier 3 Technical Support
+4779,User Assistance
+4780,User Guide
+4781,User Settings
+4782,Windows Remote Assistance
+4783,Windows Setup
+4784,Windows Support
+4785,5ESS Switching System
+4786,Advanced Television
+4787,Aeronautical Message Handling Systems
+4788,Asymmetric Digital Subscriber Line
+4789,Asynchronous Communication
+4790,Asynchronous Transfer Mode (ATM)
+4791,Automatic Call Distributor
+4792,Automatic Packet Reporting System
+4793,Avaya (Telecommunications)
+4794,Base Station Subsystem
+4795,Base Stations
+4796,Base Transceiver Stations
+4797,Basic Rate Interface
+4798,Bentley Comms
+4799,Bit Error Rate
+4800,Bit Error Rate Tester (BERT)
+4801,Broadband
+4802,Business Telephone Systems
+4803,Cable Television
+4804,Call Admission Control (VoIP Protocols)
+4805,Call Recording
+4806,CDMA2000
+4807,Cellular Data Communication Protocols
+4808,Cellular Digital Packet Data
+4809,Cellular Networks
+4810,Cellular Repeaters
+4811,Channel Access Method
+4812,Channel Allocation Schemes
+4813,Channel Bank
+4814,Channel State Information
+4815,Circuit Emulation
+4816,Cisco Customer Voice Portal (CVP)
+4817,Cisco Unified Communications Manager
+4818,Communications Protocols
+4819,Communications Systems
+4820,Cyara
+4821,Dark Fiber
+4822,Data Streaming
+4823,Data Transmissions
+4824,Decoding
+4825,Dialed Number Identification Service
+4826,Dial-Up Internet Access
+4827,Digital Access Carrier System
+4828,Digital Signal 0
+4829,Digital Signal 1
+4830,Digital Signals
+4831,Digital Subscriber Line
+4832,Discontinuous Transmission
+4833,Distributed Antenna Systems
+4834,DOCSIS (Data Over Cable Service Interface Specification)
+4835,Dropped-Call Rate
+4836,Dual Mode Mobile
+4837,Dual-Tone Multi-Frequency Signaling
+4838,DVB - Digital Video Broadcasting
+4839,Electronic Messaging
+4840,Enhanced Data Rates For GSM Evolution
+4841,ETOM (Enhanced Telecom Operations Map)
+4842,Femtocell
+4843,Fiber Optic Cable
+4844,Fiber Optic Testing
+4845,Fiber Optics
+4846,Fiber To The X
+4847,Fiber-Optic Communications
+4848,FreeSWITCH
+4849,G.711 Standard
+4850,Genesys
+4851,Google Voice
+4852,GPRS Core Networks
+4853,H.248 Protocol
+4854,H.323 Protocol
+4855,Hybrid Fiber-Coaxial
+4856,HyperACCESS
+4857,Incumbent Local Exchange Carrier
+4858,Insertion Loss
+4859,Instant Messaging
+4860,Integrated Services Digital Networks
+4861,Interactive Voice Response
+4862,InterBase
+4863,Intercom
+4864,Internet Protocol Telephony
+4865,IP Multimedia Subsystem
+4866,IP Pbx
+4867,Jitter
+4868,Leased Lines
+4869,Local Number Portability
+4870,Loop Facility Assignment Control Systems
+4871,Media Gateway Control Protocol (MGCP)
+4872,Meridian Norstar
+4873,Message Switching
+4874,Microsoft Teams Voice
+4875,Microwave Transmission
+4876,Mitel
+4877,Mobile Virtual Network Operator
+4878,Multi-Line Phone Systems
+4879,Multimedia Messaging Services
+4880,Multiplexing
+4881,Network Quality Of Service (QoS)
+4882,Nortel Meridian
+4883,Online Charging Systems
+4884,Open Systems Interconnection
+4885,OpenSIPS
+4886,Optical Loss Test Sets
+4887,Orthogonal Frequency-Division Multiplexing
+4888,Outdoor Distributed Antenna System (oDAS)
+4889,Packet Data Convergence Protocol
+4890,Packet Loss
+4891,Packet Switching
+4892,Parallel Communications
+4893,Passive Optical Networks
+4894,Plesiochronous Digital Hierarchy
+4895,Policy And Charging Rules Function
+4896,Predictive Dialer
+4897,Private Automatic Branch Exchange
+4898,Private Branch Exchange (PBX)
+4899,Public Switched Telephone Networks
+4900,Registered Jacks
+4901,Ring Networks
+4902,Satellite Communications
+4903,Serial Communications
+4904,Serial Peripheral Interface Bus
+4905,Serializer/Deserializer (SerDes)
+4906,Short Message Peer-To-Peer
+4907,Signalling System 7 (SS7)
+4908,SIP Trunking
+4909,SMS
+4910,Softphone
+4911,Synchronous Optical Networking
+4912,System Management Bus
+4913,T-Carrier
+4914,TDM Telephony
+4915,Telecom Infrastructure
+4916,Telecommunications
+4917,TeleCommunications Device For The Deaf
+4918,Telecommunications Management Networks
+4919,Telecommunications Networks
+4920,TeleCommunications Relay Services
+4921,Telecommunications Service
+4922,Telecommunications Systems Management
+4923,Telematics
+4924,Telephone Numbering Plans
+4925,Telephony
+4926,Time Division Multiple Access
+4927,Time-Division Multiplexing
+4928,Title 47 CFR Part 15
+4929,Transaction Language 1
+4930,Transport Stream
+4931,Virtual Queue
+4932,Voice Chat
+4933,Voice Over IP
+4934,Wavelength-Division Multiplexing
+4935,WiMAX
+4936,Wired Communications
+4937,Appium
+4938,Applitools
+4939,Arquillian (Software)
+4940,Assertj
+4941,Automated Code Review
+4942,Automated Testing Framework
+4943,CA DevTest
+4944,Capybara (Software)
+4945,Codeception
+4946,Coded User Interface (UI)
+4947,Concordion
+4948,Cucumber (Software)
+4949,CypressIO
+4950,Eggplant Functional
+4951,Enzyme (JavaScript Testing Utility)
+4952,Espresso (Android Testing Framework)
+4953,Extended Computer Aided Test Tool (ECATT)
+4954,FitNesse
+4955,Fuzz Testing
+4956,Gatling (Software)
+4957,HP Quicktest Professional
+4958,HP Winrunner
+4959,HTMLunit
+4960,Httpunit
+4961,Hybrid Testing
+4962,IBM Rational Functional Tester
+4963,IBM Rational Performance Tester
+4964,Jasmine (JavaScript Testing Framework)
+4965,JSUnit
+4966,Jtest
+4967,Junit
+4968,Karate (Software)
+4969,Karma (JavaScript Testing Framework)
+4970,Katalon Studio
+4971,Lean Functional Testing
+4972,Micro Focus Performance Center
+4973,Micro Focus StormRunner
+4974,Mobile App Test Automation
+4975,Mrunit
+4976,NeoLoad
+4977,Nosetest
+4978,Protractor
+4979,Puppeteer (Software)
+4980,QuerySurge
+4981,Qunit
+4982,Ranorex
+4983,Rational Robot
+4984,Restsharp
+4985,Robolectric
+4986,Robotium
+4987,Sahi (Software)
+4988,Saucelabs
+4989,Scalatest
+4990,Selendroid
+4991,Selenide
+4992,Selenium (Software)
+4993,Selenium Webdriver
+4994,Sikuli Script
+4995,Silk Test (Software)
+4996,Simpletest
+4997,Software Testing Automation Framework
+4998,Specflow
+4999,SuperTest
+5000,Test Automation
+5001,Test Automation Management Tools
+5002,Test Harness
+5003,Test Runner
+5004,Test Studio
+5005,Testcomplete
+5006,TestDirector
+5007,TestNG
+5008,Tricentis Tosca
+5009,WatiN
+5010,Watir
+5011,Worksoft Certify
+5012,XCUITest
+5013,Apache Archiva
+5014,Apache Subversion
+5015,Araxis Merge
+5016,Atlassian Stash
+5017,AWS CodeCommit
+5018,Bitbucket
+5019,Branching And Merging
+5020,Change Tracking
+5021,Changeset
+5022,Concurrent Versions System (Software)
+5023,Distributed Revision Control
+5024,FishEye (Software)
+5025,Gerrit
+5026,Git (Version Control System)
+5027,Git Flow
+5028,Git Stash
+5029,Github
+5030,Gitkraken
+5031,Gitlab
+5032,Gitorious
+5033,Liquibase
+5034,Mercurial
+5035,Perforce
+5036,PVCS Version Manager
+5037,Rebase
+5038,Ruby Version Management
+5039,Software Versioning
+5040,Source Code Control Systems
+5041,Source Depot
+5042,StarTeam
+5043,TortoiseSVN
+5044,Version Control
+5045,Version Control Software
+5046,Cisco TelePresence
+5047,Computer Conferencing
+5048,Conference Room Technology
+5049,FaceTime
+5050,Google Hangouts
+5051,Google Meet
+5052,GoToMeeting
+5053,GoToWebinar
+5054,Microsoft Netmeeting
+5055,Microsoft Office Live Meeting
+5056,Panopto (Software)
+5057,Polycom (Video Conferencing)
+5058,Skype
+5059,Teleconferencing
+5060,Telepresence
+5061,Video Conferencing
+5062,Video Conferencing Facilities
+5063,Video Remote Interpreting (VRI)
+5064,Videoconferencing
+5065,Web Conferencing
+5066,Zoom (Video Conferencing Tool)
+5067,Zoom Rooms
+5068,Amazon WorkSpaces
+5069,Application Virtualization
+5070,Attachmate Extra
+5071,Citrix WinFrame
+5072,Citrix Workspace
+5073,Citrix XenApp
+5074,Common Language Runtime
+5075,Containerization
+5076,Dalvik
+5077,Database Virtualization
+5078,Desktop Virtualization
+5079,Docker Machine
+5080,Docker Swarm
+5081,Dynamic Logical Partitioning
+5082,Emulators
+5083,Ethereum Virtual Machine
+5084,Hardware Virtualization
+5085,HP Virtual Connect
+5086,Hyper-V
+5087,Hypervisor
+5088,IBM Z/VM
+5089,Java Virtual Machine (JVM)
+5090,Jrockit
+5091,Jvisualvm
+5092,Kernel-Based Virtual Machine
+5093,Live Migration
+5094,Logical Partition
+5095,Microsoft App-V
+5096,Microsoft Java Virtual Machines
+5097,Microsoft Virtual Servers
+5098,Network Emulation
+5099,Network Functions Virtualization
+5100,Network Virtualization
+5101,Open VSwitch
+5102,OpenVZ
+5103,Operating System Level Virtualization
+5104,Oracle Virtual Machine
+5105,Oracle VM
+5106,Ovirt
+5107,PowerVM
+5108,Proxmox
+5109,Quick EMUlator (QEMU)
+5110,Red Hat Enterprise Virtualization
+5111,Server Virtualization
+5112,Service Virtualization
+5113,Software-Defined Data Center
+5114,Solaris Containers
+5115,Storage Virtualization
+5116,System Center Virtual Machine Management
+5117,Terminal Emulators
+5118,Thin Provisioning
+5119,VBlock
+5120,Vcenter
+5121,VCloud
+5122,Vert.x
+5123,Virtual Application
+5124,Virtual Computing
+5125,Virtual Desktops
+5126,Virtual Disk
+5127,Virtual Dom
+5128,Virtual Environment
+5129,Virtual File Systems
+5130,Virtual Instrumentation
+5131,Virtual Machine Manager
+5132,Virtual Machines
+5133,Virtual Network Computing
+5134,Virtual Private Servers
+5135,Virtual Switching
+5136,Virtual Terminal
+5137,VirtualBox
+5138,Virtualenv
+5139,Virtualization
+5140,Virtuozzo
+5141,VMware ESX Servers
+5142,VMware Fusion
+5143,VMware Horizon View
+5144,VMware Infrastructure
+5145,VMWare NSX-T
+5146,VMware Player
+5147,VMware Servers
+5148,VMware ThinApp
+5149,VMware Virtual Desktop Infrastructure
+5150,VMware Virtualization
+5151,VMware VMFS
+5152,VMware VSphere
+5153,VMware Workstation
+5154,VxLAN (Virtual Extensible LAN)
+5155,Windows Server Virtualization
+5156,Windows Virtual PC
+5157,X86 Virtualization
+5158,Xen Servers
+5159,Xendesktop
+5160,Adobe Contribute
+5161,Adobe Flash Player
+5162,Content Pages
+5163,Custom Post Types
+5164,Deep Linking
+5165,Digital Content Platforms
+5166,Dynamic Content
+5167,Embedded Code
+5168,Embedded Media
+5169,Embedded Video
+5170,Google Alerts
+5171,Gutenberg (WordPress Block Editor)
+5172,IBM Lotus Symphony
+5173,Iframe
+5174,Interactive Web Content
+5175,MediaWiki
+5176,Photo Mechanic
+5177,Playready
+5178,Web Content Accessibility Guidelines
+5179,Web Content Management
+5180,Web Resource
+5181,Website Localization
+5182,Widevine
+5183,Wikimedia
+5184,Adaptive Design
+5185,Adobe ColdFusion
+5186,Adobe Dreamweaver
+5187,Adobe Edge Animate
+5188,Angular (Web Framework)
+5189,Apache Flex
+5190,Apache Sling
+5191,Apache Struts
+5192,Apache Tiles
+5193,Apache Turbine
+5194,Apache Wicket
+5195,Aptana
+5196,Asynchronous Javascript
+5197,Blazor
+5198,Bootstrap (Front-End Framework)
+5199,Browser Compatibility
+5200,Browser Extension
+5201,Bulma
+5202,Capistrano (Software)
+5203,Cascading Style Sheets (CSS)
+5204,Character Encodings In HTML
+5205,ColdBox Platforms
+5206,Create React App
+5207,CreateJS
+5208,CSS Animations
+5209,CSS Codes
+5210,CSS Frameworks
+5211,CSS Grid
+5212,Divi WordPress Theme
+5213,Django (Web Framework)
+5214,Drag And Drop
+5215,Dynamic Forms
+5216,Dynamic HTML
+5217,Dynamic Web Pages
+5218,Dynamic Websites
+5219,Ember CLI
+5220,External Links
+5221,Facelets
+5222,Firebug
+5223,Flask (Web Framework)
+5224,Flexbox
+5225,Form Fields
+5226,FreeMarker
+5227,Google Closure Tools
+5228,Google Sites
+5229,Google Web Toolkits
+5230,Grails (Framework)
+5231,Gulp Sass (Software)
+5232,HTML Abstraction Markup Language
+5233,HTML Components
+5234,HTML Editor
+5235,HTML Emails
+5236,HTML Formatting
+5237,HTML Generation
+5238,HTML Tables
+5239,HTML5
+5240,Http Protocols
+5241,Http2
+5242,Httpclient
+5243,HyperText Markup Language (HTML)
+5244,ICEfaces
+5245,Interactive Web Pages
+5246,Intuitive Navigation
+5247,Isomorphic React
+5248,JBoss Seam
+5249,JSON Web Signature (JWS)
+5250,LAMP (Software Bundle)
+5251,Landing Page Optimization
+5252,LESS
+5253,Lightning Web Components
+5254,Load Time
+5255,MAMP
+5256,Mean Stack
+5257,MERN Stack
+5258,Microsites
+5259,Object Oriented CSS
+5260,Oracle ATG Web Commerce
+5261,PageSpeed
+5262,Partial Views
+5263,Play Framework
+5264,Polyfills
+5265,PostCSS
+5266,Progressive Enhancement
+5267,Python Server Pages
+5268,Responsive HTML
+5269,Responsive Web Design
+5270,Rich Internet Application
+5271,Rich Site Summary (RSS)
+5272,Ruby On Rails
+5273,SAP NetWeaver Visual Composer
+5274,Scalable Vector Graphics
+5275,Screen Reader
+5276,Search Form
+5277,Semantic HTML
+5278,Semantic UI
+5279,Server Pages
+5280,Server Response
+5281,Showit Website Builder
+5282,Single Page Application
+5283,Site Maps
+5284,Sitemaps (XML)
+5285,Smartgwt
+5286,Splash Pages
+5287,Spring WebFlux
+5288,Squarespace
+5289,Static Content
+5290,Static HTML
+5291,Static Pages
+5292,StorybookJS
+5293,Templating Engine
+5294,URL Redirection
+5295,User Controls
+5296,User Preferences
+5297,Vaadin
+5298,Vue Router
+5299,Web 2.0
+5300,Web Accessibility
+5301,Web Accessibility Initiative
+5302,Web Accessibility Standards
+5303,Web Accessibility Testing
+5304,Web Admin
+5305,Web Application Description Language (WADL)
+5306,Web Application Development
+5307,Web Application Frameworks
+5308,Web Applications
+5309,Web Authoring
+5310,Web Deployment
+5311,Web Design
+5312,Web Design Programs
+5313,Web Development
+5314,Web Development Tools
+5315,Web Dynpro
+5316,Web Engineering
+5317,Web Frameworks
+5318,Web Maintenance
+5319,Web Pages
+5320,Web Parts
+5321,Web Performance Optimization
+5322,Web Platforms
+5323,Web Portals
+5324,Web Project
+5325,Web Property
+5326,Web Standards
+5327,Web Template Systems
+5328,Web Tools
+5329,Web Worker
+5330,Web2py
+5331,Webforms
+5332,WebGL
+5333,Webhooks
+5334,WebHost Manager (WHM)
+5335,WebKit
+5336,Website Architecture
+5337,Website Builder
+5338,Website Deployment
+5339,XAMPP
+5340,XMLhttprequest
+5341,XPages
+5342,Yeoman Generator
+5343,Yslow
+5344,Zurb Foundation
+5345,Amazon Elasticsearch Service
+5346,Amazon Simple Email Service (SES)
+5347,Amazon Web Services
+5348,Apache Axis2
+5349,CPanel
+5350,Datafeed
+5351,Godaddy
+5352,Google Services
+5353,Hosted Exchange
+5354,IBM WebSphere DataPower SOA Appliances
+5355,Internet Hosting Service
+5356,Internet Services
+5357,Jakarta XML RPC (JAX-RPC)
+5358,Java Web Services
+5359,Java Web Services Development Pack
+5360,Message Transmission Optimization Mechanism
+5361,Online Service Provider
+5362,Service Choreography (Web Service Specifications)
+5363,Shared Web Hosting Services
+5364,Universal Description Discovery And Integration
+5365,Utility Computing
+5366,Web Hosting Services
+5367,Web Service Protocols
+5368,Web Services
+5369,Web Services Concepts
+5370,Web Services Description Language
+5371,Web Services Interoperability
+5372,Whmcs
+5373,3GPP (Telecommunication)
+5374,3GPP2 (Telecommunication)
+5375,5G Technology
+5376,Aironet Wireless Communications
+5377,Bluetooth
+5378,Bluetooth Low Energy (Bluetooth)
+5379,Cognitive Radio
+5380,eNodeB (LTE Technology)
+5381,Evolution-Data Optimized
+5382,Evolved HSPA
+5383,Fixed Wireless
+5384,General Packet Radio Service (GPRS)
+5385,Global System For Mobile Communications
+5386,High-Speed Downlink Packet Access
+5387,High-Speed Uplink Packet Access
+5388,Integrated Digital Enhanced Networks
+5389,LTE (Telecommunication)
+5390,Mobile Broadband
+5391,Mobile Data
+5392,Mobile IP
+5393,Mobile Network Operator
+5394,Mobile Telephony
+5395,Near Field Communication
+5396,Network Switching SubSystems
+5397,Node B
+5398,Radio Access Networks
+5399,Radio Base Station
+5400,Radio Equipment
+5401,Radio Operations
+5402,TD-SCDMA
+5403,UMTS Terrestrial Radio Access Networks
+5404,Universal Mobile Telecommunications Systems
+5405,Visitor Location Register (VLR)
+5406,W-CDMA (UMTS)
+5407,Wireless Broadband
+5408,Wireless Communications
+5409,Wireless Data Service
+5410,Wireless Internet Service Provider
+5411,Wireless Paging Systems
+5412,Wireless Site Survey
+5413,Wireless Transmission
