@@ -1,6 +1,6 @@
 # Prediction-of-skills-and-recommendations-on-professional-certification
 
-### To run this model 
+### To run the model 
 
 ## Web Scraping
 
